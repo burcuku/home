@@ -22,7 +22,7 @@ My research interests include software testing, debugging, and verification for 
 
 * I will serve in the PC committee of [SAS'21](https://conf.researchr.org/home/sas-2021), the 28th Static Analysis Symposium.
  
-* Serve in the PC committee of [ECOOP'21](https://2021.ecoop.org/), the 35th European Conference on Object-Oriented Programming.
+* Served in the PC committee of [ECOOP'21](https://2021.ecoop.org/), the 35th European Conference on Object-Oriented Programming.
  
 * Gave an invited talk at the [SEN Symposium 2021](http://www.sen-symposium.nl) (National Symposium Software Engineering in The Netherlands) on February 18th, 2021.
 
