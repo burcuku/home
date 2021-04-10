@@ -15,15 +15,24 @@ My research interests include software testing, debugging, and verification for 
 
 **News/Announcements:**  
 
-[Contact me](mailto:b.ozkan@tudelft.nl) for MSc projects if you are interested in working on software testing, distributed systems, and blockchains.
+**[Contact me](mailto:b.ozkan@tudelft.nl) for MSc projects if you are interested in working on software testing, distributed systems, and blockchains.**
+
+
+* I will serve in the PC committee of [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), the 20th ACM SIGPLAN International Workshop on Erlang.
 
 * I will serve in the PC committee of [SAS'21](https://conf.researchr.org/home/sas-2021), the 28th Static Analysis Symposium.
+ 
+* Serve in the PC committee of [ECOOP'21](https://2021.ecoop.org/), the 35th European Conference on Object-Oriented Programming.
+ 
 * Gave an invited talk at the [SEN Symposium 2021](http://www.sen-symposium.nl) (National Symposium Software Engineering in The Netherlands) on February 18th, 2021.
+
 * I am excited to start working as an Assist. Prof. in the TU Delft Software Engineering Research Group ([SERG](https://se.ewi.tudelft.nl/)) as of 
 September'20.
+
 * I am honoured to receive the [**Delft Technology Fellowship**](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/campagnes/delft-technology-fellowship/) award for outstanding female academic researchers.
-* I will serve in the PC committee of [ECOOP'21](https://2021.ecoop.org/), the 35th European Conference on Object-Oriented Programming.
+
 * Served the ERC committee of [OOPSLA'20](https://2020.splashcon.org/track/splash-2020-oopsla), the Conference on Object-Oriented Programming Systems, Languages, and Applications.
+
 * Served in the PC committee of [MPLR'20](https://mplr2020.cs.manchester.ac.uk/), the 17th International Conference on Managed Programming Languages & Runtimes.
 
 <!--
