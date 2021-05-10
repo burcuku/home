@@ -7,16 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ 
 
 I am an Assistant Professor and Delft Technology Fellow in the Software Engineering Research Group ([SERG](https://se.ewi.tudelft.nl/)) at Delft University of Technology. Before that, I was a postdoc researcher at Max Planck Institute for Software Systems in the Rigorous Software Engineering Group, working with Rupak Majumdar. I got my PhD from Koç University under the supervision of Serdar Tasiran.
 
-My research interests include software testing, debugging, and verification for concurrent programs, and distributed systems. You can visit [Reliability of Distributed Software Systems
-](https://se.ewi.tudelft.nl/research-lines/reliability-distributed/) research line for more information.
+My research interests include software testing, debugging, and verification for concurrent programs, and distributed systems. You can visit [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/reliability-for-conc-dist/) research line for more information.
 
-**News/Announcements:**  
 
-**[Contact me](mailto:b.ozkan@tudelft.nl) for MSc projects if you are interested in working on software testing, distributed systems, and blockchains.**
+## News/Announcements: 
 
+<span style="color:#00A6D6">**[Vacancy - PhD position]**</span> I'm looking for an enthusiastic PhD student to work on software testing for distributed systems and Byzantine fault-tolerant (BFT) blockchains. 
+You can find more information about the position and application on the 
+[<span style="color:#00A6D6">**application page**</span>](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=2915).
+
+
+[Contact me](mailto:b.ozkan@tudelft.nl) for MSc projects if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains.
+
+* I will serve in the PC committee of [ESOP'22](https://etaps.org/2022/esop), the 31st European Symposium on Programming.
 
 * I will serve in the PC committee of [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), the 20th ACM SIGPLAN International Workshop on Erlang.
 
