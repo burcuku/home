@@ -16,7 +16,7 @@ My research interests include software testing, debugging, and verification for 
 
 ## News/Announcements: 
 
-<span style="color:#00A6D6">**[Vacancy - PhD position]**</span> I'm looking for an enthusiastic PhD student to work on software testing for distributed systems and Byzantine fault-tolerant (BFT) blockchains. 
+<span style="color:#00A6D6">**[Open PhD position (Application deadline: June 18)]**</span> We're looking for an enthusiastic PhD student to work on software testing for distributed systems and Byzantine fault-tolerant (BFT) blockchains. 
 You can find more information about the position and application on the 
 [<span style="color:#00A6D6">**application page**</span>](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=2915).
 
