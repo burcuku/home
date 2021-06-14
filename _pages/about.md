@@ -20,7 +20,7 @@ My research interests include software testing, debugging, and verification for 
 You can find more information about the position and application on the 
 [<span style="color:#00A6D6">**application page**</span>](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=2915).
 
-<span style="color:#00A6D6">**[Available MSc projects]**</span> Visit [lab webpage]((https://se.ewi.tudelft.nl/research-lines/reliability-for-conc-dist/)) and  [contact me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. 
+<span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [lab webpage](https://se.ewi.tudelft.nl/research-lines/reliability-for-conc-dist/) and  [contact me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. 
 
 
 ## News: 
@@ -28,9 +28,9 @@ You can find more information about the position and application on the
 
 * I will serve in the PC committee of [ESOP'22](https://etaps.org/2022/esop), the 31st European Symposium on Programming.
 
-* Served in the PC committee of [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), the 20th ACM SIGPLAN International Workshop on Erlang.
+* Served in the PC committee of [SAS'21](https://conf.researchr.org/home/sas-2021), the 28th Static Analysis Symposium.  
 
-* Served in the PC committee of [SAS'21](https://conf.researchr.org/home/sas-2021), the 28th Static Analysis Symposium.
+* Served in the PC committee of [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), the 20th ACM SIGPLAN International Workshop on Erlang.
  
 * Served in the PC committee of [ECOOP'21](https://2021.ecoop.org/), the 35th European Conference on Object-Oriented Programming.
  
