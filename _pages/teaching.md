@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Courses involved/co-lectured:"
+title: "Courses:"
 permalink: /teaching/
 author_profile: true
 ---
