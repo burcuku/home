@@ -1,6 +1,5 @@
 ---
-title: "[CS4405: Analysis of Concurrent and Distributed Programs
-]"
+title: "CS4405: Analysis of Concurrent and Distributed Programs"
 collection: teaching
 type: "Graduate course"
 permalink: 'teaching'
