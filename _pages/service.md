@@ -9,7 +9,9 @@ author_profile: true
   
 ## Reviewer in Conferences:
 
-* PC Member, European Conf. on Object-Oriented Programming ([ECOOP'21](https://2021.ecoop.org/))
+* PC Member, the 31st European Symposium on Programming ([ESOP'22](https://etaps.org/2022/esop))
+* PC Member, 15th IEEE International Conference on Software Testing, Verification and Validation ([ICST'22](https://icst2022.vrain.upv.es/)).
+* PC Member, 35th European Conf. on Object-Oriented Programming ([ECOOP'21](https://2021.ecoop.org/))
 * PC Member, Int. Conf. on Managed Programming Languages & Runtimes ([MPLR'20](https://mplr2020.cs.manchester.ac.uk/))
 * ERC Member, Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA'20](https://2020.splashcon.org/track/splash-2020-oopsla))
 * PC Member, Int. Conf. on Computer Aided Verification ([CAV'19](http://i-cav.org/2019/))

@@ -16,21 +16,28 @@ My research interests include software testing, debugging, and verification for 
 
 ## Announcements:
 
-<span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [lab webpage](https://se.ewi.tudelft.nl/research-lines/reliability-for-conc-dist/) and  [contact me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. 
+<span style="color:#00A6D6">**[Available PhD position]**</span> [Reach me](mailto:b.ozkan@tudelft.nl) if you are interested in a PhD position on software testing of distributed systems and blockchains.  
+
+<span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/reliability-for-conc-dist/) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. 
 
 
 ## News: 
 
+* Invited to the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/dagstuhl-seminars/) for [Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
+
+* I will serve in the PC committee of [ICST'22](https://icst2022.vrain.upv.es/), the 15th IEEE International Conference on Software Testing, Verification and Validation.
 
 * I will serve in the PC committee of [ESOP'22](https://etaps.org/2022/esop), the 31st European Symposium on Programming.
 
+* Invited talk at the [FMT (Formal Methods and Tools) Group](https://www.utwente.nl/en/eemcs/fmt) at the University of Twente, on July 1st, 2021.  
+ 
 * Served in the PC committee of [SAS'21](https://conf.researchr.org/home/sas-2021), the 28th Static Analysis Symposium.  
 
 * Served in the PC committee of [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), the 20th ACM SIGPLAN International Workshop on Erlang.
  
 * Served in the PC committee of [ECOOP'21](https://2021.ecoop.org/), the 35th European Conference on Object-Oriented Programming.
  
-* Gave an invited talk at the [SEN Symposium 2021](http://www.sen-symposium.nl) (National Symposium Software Engineering in The Netherlands) on February 18th, 2021.
+* Invited talk at the [SEN Symposium 2021](http://www.sen-symposium.nl) (National Symposium Software Engineering in The Netherlands) on February 18th, 2021.
 
 * I am excited to start working as an Assist. Prof. in the TU Delft Software Engineering Research Group ([SERG](https://se.ewi.tudelft.nl/)) as of 
 September'20.
