@@ -14,16 +14,17 @@ I am an Assistant Professor and Delft Technology Fellow in the Software Engineer
 My research interests include software testing, debugging, and verification for concurrent programs, and distributed systems. You can visit [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/reliability-for-conc-dist/) research line for more information.
 
 
-## Announcements:
+<!-- ## Announcements: -->
+
+
+
+## News: 
 
 <span style="color:#00A6D6">**[Available PhD position]**</span> [Reach me](mailto:b.ozkan@tudelft.nl) if you are interested in a PhD position on software testing of distributed systems and blockchains.  
 
 <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/reliability-for-conc-dist/) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. 
 
-
-## News: 
-
-* Invited to the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/dagstuhl-seminars/) for [Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
+* Invited to the Dagstuhl Seminar for [Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
 
 * I will serve in the PC committee of [ICST'22](https://icst2022.vrain.upv.es/), the 15th IEEE International Conference on Software Testing, Verification and Validation.
 
