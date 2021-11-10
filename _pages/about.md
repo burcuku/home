@@ -11,7 +11,7 @@ redirect_from:
 
 I am an Assistant Professor and Delft Technology Fellow in the Software Engineering Research Group ([SERG](https://se.ewi.tudelft.nl/)) at Delft University of Technology. Before that, I was a postdoc researcher at Max Planck Institute for Software Systems in the Rigorous Software Engineering Group, working with Rupak Majumdar. I got my PhD from Koç University under the supervision of Serdar Tasiran.
 
-My research interests include software testing, debugging, and verification for concurrent programs, and distributed systems. You can visit [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/reliability-for-conc-dist/) research line for more information.
+My research interests include software testing, debugging, and verification for concurrent programs, and distributed systems. You can visit [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency/) research line for more information.
 
 
 <!-- ## Announcements: -->
