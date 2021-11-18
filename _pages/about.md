@@ -18,7 +18,7 @@ My research interests include software testing, debugging, and verification for 
 
 
 
-##  ![](../images/megaphone-s.png) News: 
+## News: 
 
 ![](../images/orange-star.png) <span style="color:#00A6D6">**[Open PhD position, application deadline: December 17th, 2021]**</span> We're looking for a motivated PhD student to work on testing fault-tolerance of distributed systems. Find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)! 
 
