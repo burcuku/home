@@ -18,10 +18,11 @@ My research interests include software testing, debugging, and verification for 
 
 
 
-## News: 
+##  ![](../images/megaphone-s.png) News: 
 
-<span style="color:#00A6D6">**[Open PhD position, application deadline: December 17th, 2021]**</span> We're looking for a motivated PhD student to work on testing fault-tolerance of distributed systems. Find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)! :rocket: 
+![](../images/orange-star.png) <span style="color:#00A6D6">**[Open PhD position, application deadline: December 17th, 2021]**</span> We're looking for a motivated PhD student to work on testing fault-tolerance of distributed systems. Find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)! 
 
+      
 <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/reliability-for-conc-dist/) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. 
 
 * Attended Dagstuhl Seminar for [Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
