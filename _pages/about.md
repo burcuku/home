@@ -20,24 +20,29 @@ My research interests include software testing, debugging, and verification for 
 
 ## News: 
 
-![](https://github.com/burcuku/home/blob/master/images/orange-star.png) <span style="color:#00A6D6">**[Open PhD position, application deadline: December 17th, 2021]**</span> We're looking for a motivated PhD student to work on testing fault-tolerance of distributed systems. Find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)! 
+<!-- ![](https://github.com/burcuku/home/blob/master/images/orange-star.png) <span style="color:#00A6D6">**[Open PhD position, application deadline: December 17th, 2021]**</span> We're looking for a motivated PhD student to work on testing fault-tolerance of distributed systems. Find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)! -->
 
-      
 <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. 
+ 
+* Together with Stavros Aronis, I will co-chair the [Erlang Workshop'22](https://icfp22.sigplan.org/) that will be co-located with [ICFP'22](https://icfp22.sigplan.org/).
 
 * Attended Dagstuhl Seminar for [Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
 
-* I will serve in the PC committee of [ICST'22](https://icst2022.vrain.upv.es/), the 15th IEEE International Conference on Software Testing, Verification and Validation.
+* Served in the PC committees of [ESOP'22](https://etaps.org/2022/esop) and [ICST'22](https://icst2022.vrain.upv.es/).
 
-* I will serve in the PC committee of [ESOP'22](https://etaps.org/2022/esop), the 31st European Symposium on Programming.
+<!--* I will serve in the PC committee of [ICST'22](https://icst2022.vrain.upv.es/), the 15th IEEE International Conference on Software Testing, Verification and Validation.
+
+* I will serve in the PC committee of [ESOP'22](https://etaps.org/2022/esop), the 31st European Symposium on Programming. -->
 
 * Invited talk at the [FMT (Formal Methods and Tools) Group](https://www.utwente.nl/en/eemcs/fmt) at the University of Twente, on July 1st, 2021.  
+
+* Served in the PC committees of [ECOOP'21](https://2021.ecoop.org/), [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), and [SAS'21](https://conf.researchr.org/home/sas-2021).  
  
-* Served in the PC committee of [SAS'21](https://conf.researchr.org/home/sas-2021), the 28th Static Analysis Symposium.  
+<!-- * Served in the PC committee of [SAS'21](https://conf.researchr.org/home/sas-2021), the 28th Static Analysis Symposium.  
 
 * Served in the PC committee of [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), the 20th ACM SIGPLAN International Workshop on Erlang.
  
-* Served in the PC committee of [ECOOP'21](https://2021.ecoop.org/), the 35th European Conference on Object-Oriented Programming.
+* Served in the PC committee of [ECOOP'21](https://2021.ecoop.org/), the 35th European Conference on Object-Oriented Programming. -->
  
 * Invited talk at the [SEN Symposium 2021](http://www.sen-symposium.nl) (National Symposium Software Engineering in The Netherlands) on February 18th, 2021.
 

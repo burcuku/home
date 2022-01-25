@@ -6,22 +6,30 @@ author_profile: true
 ---
 
 {% include base_path %}
-  
+
+## Organization:
+
+* Co-chair of Expert Discussions Track, [ECOOP'22](https://2022.ecoop.org/), the 36th European Conf. on Object-Oriented Programming.
+* Co-chair, [Erlang'22](https://icfp22.sigplan.org/), the 21st Edition of the Erlang Workshop organized as a co-located event of [ICFP 2022](https://icfp22.sigplan.org/).
+
 ## Reviewer in Conferences:
 
-* PC Member, the 31st European Symposium on Programming ([ESOP'22](https://etaps.org/2022/esop))
-* PC Member, 15th IEEE International Conference on Software Testing, Verification and Validation ([ICST'22](https://icst2022.vrain.upv.es/))
-* PC Member, 35th European Conf. on Object-Oriented Programming ([ECOOP'21](https://2021.ecoop.org/))
-* PC Member, 28th Static Analysis Symposium ([SAS'21](https://conf.researchr.org/home/sas-2021))
-* PC Member, 20th ACM SIGPLAN International Workshop on Erlang ([Erlang'21](https://icfp21.sigplan.org/home/erlang-2021))
-* PC Member, Int. Conf. on Managed Programming Languages & Runtimes ([MPLR'20](https://mplr2020.cs.manchester.ac.uk/))
-* ERC Member, Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA'20](https://2020.splashcon.org/track/splash-2020-oopsla))
-* PC Member, Int. Conf. on Computer Aided Verification ([CAV'19](http://i-cav.org/2019/))
-* AEC Member, Int. Conf. on The European COnference On Programming languages ([ECOOP'19](https://2019.ecoop.org/))
-* PC Member, Int. Conf. on Embedded Software (EMSOFT) Work In Progress, ([EMSOFT'18](https://esweek.org/emsoft/))
-* AEC Member, Int. Conf. on Computer Aided Verification ([CAV'18](http://cavconference.org/2018/))
+* PC Member, [ESOP'22](https://etaps.org/2022/esop), the 31st European Symposium on Programming. 
+* PC Member, [ICST'22](https://icst2022.vrain.upv.es/), the 15th IEEE International Conference on Software Testing, Verification and Validation 
+* PC Member, [ECOOP'21](https://2021.ecoop.org/), the 35th European Conf. on Object-Oriented Programming 
+* PC Member, [SAS'21](https://conf.researchr.org/home/sas-2021), the 28th Static Analysis Symposium 
+* PC Member, [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), the 20th ACM SIGPLAN International Workshop on Erlang 
+* PC Member, [MPLR'20](https://mplr2020.cs.manchester.ac.uk/), the Int. Conf. on Managed Programming Languages & Runtimes 
+* ERC Member, [OOPSLA'20](https://2020.splashcon.org/track/splash-2020-oopsla), the Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
+* PC Member, [CAV'19](http://i-cav.org/2019/), the Int. Conf. on Computer Aided Verification 
+* AEC Member, [ECOOP'19](https://2019.ecoop.org/), the Int. Conf. on The European COnference On Programming languages 
+* PC Member, [EMSOFT'18](https://esweek.org/emsoft/), the Int. Conf. on Embedded Software (EMSOFT) Work In Progress, 
+* AEC Member, [CAV'18](http://cavconference.org/2018/), the Int. Conf. on Computer Aided Verification 
 
-## Reviewer for journals:
+## Reviewer for manuscripts:
+* Journal of Systems & Software, Elsevier, 2022
+* Science of Computer Programming, Elsevier, 2021
+* ACM Transactions on Programming Languages and Systems (TOPLAS), 2018
 * ACM Transactions on Programming Languages and Systems (TOPLAS), 2018
 * Special Issue on the Asia-Pacific Software Engineering Conference (APSEC), 2016
 * Formal Methods in System Design (FMSD), 2014
