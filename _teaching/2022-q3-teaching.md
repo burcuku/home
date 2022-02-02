@@ -1,13 +1,10 @@
 ---
-title: "CS4405: Analysis of Concurrent and Distributed Programs"
+title: "[CS4405: Analysis of Concurrent and Distributed Programs](https://cs4405.github.io/)"
 collection: teaching
 type: "Graduate course"
+status: 'current'
 permalink: 'teaching'
 venue: "Delft University of Technology"
-date: 2022-02-01
+date: 2022-02-09
 location: "Delft, Netherlands"
 ---
-
-The course will be available in Spring 2022.
-
-Find more information at the [study guide](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=60097).
