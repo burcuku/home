@@ -14,6 +14,7 @@ author_profile: true
 
 ## Reviewer in Conferences:
 
+* PC Member, [ASE'22 NIER](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track), the New Ideas and Emerging Results (NIER) track at the 37th Int. Conf. on Automated Software Engineering. 
 * PC Member, [ESOP'22](https://etaps.org/2022/esop), the 31st European Symposium on Programming. 
 * PC Member, [ICST'22](https://icst2022.vrain.upv.es/), the 15th IEEE International Conference on Software Testing, Verification and Validation 
 * PC Member, [ECOOP'21](https://2021.ecoop.org/), the 35th European Conf. on Object-Oriented Programming 
@@ -27,6 +28,7 @@ author_profile: true
 * AEC Member, [CAV'18](http://cavconference.org/2018/), the Int. Conf. on Computer Aided Verification 
 
 ## Reviewer for manuscripts:
+* Transactions on Software Engineering and Methodology (TOSEM), 2022
 * Journal of Systems & Software, Elsevier, 2022
 * Science of Computer Programming, Elsevier, 2021
 * ACM Transactions on Programming Languages and Systems (TOPLAS), 2018

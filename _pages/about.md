@@ -25,6 +25,10 @@ My research interests include software testing, debugging, and verification for 
 <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. 
  
 * I will co-chair the [Erlang Workshop'22](https://icfp22.sigplan.org/) that will be co-located with [ICFP'22](https://icfp22.sigplan.org/) together with Stavros Aronis.
+ 
+* I will co-chair the [Expert discussion track](https://2022.ecoop.org/track/expert-discussion) at the [ECOOP'22](https://2022.ecoop.org/) together with Manu Sridharan.
+
+* I will serve in the PC committee of [ASE 2022 NIER](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track).
 
 * Attended Dagstuhl Seminar for [Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
 
