@@ -13,7 +13,6 @@ I am an Assistant Professor and Delft Technology Fellow in the Software Engineer
 
 My research interests include software testing, debugging, and verification for concurrent programs, and distributed systems. You can visit [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency/) research line for more information.
 
-
 <!-- ## Announcements: -->
 
 
