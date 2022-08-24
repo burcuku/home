@@ -22,12 +22,14 @@ My research interests include software testing, debugging, and verification for 
 <!-- ![](https://github.com/burcuku/home/blob/master/images/orange-star.png) <span style="color:#00A6D6">**[Open PhD position, application deadline: December 17th, 2021]**</span> We're looking for a motivated PhD student to work on testing fault-tolerance of distributed systems. Find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)! -->
 
 <!-- <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. -->
+
+* I will serve in the PC of [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla) and [VMCAI'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=167543&copyownerid=176516).
  
 * I co-chair the [Erlang Workshop'22](https://icfp22.sigplan.org/) that will be co-located with [ICFP'22](https://icfp22.sigplan.org/) together with Stavros Aronis.
  
 * Co-chaired the [Expert discussion track](https://2022.ecoop.org/track/expert-discussion) at the [ECOOP'22](https://2022.ecoop.org/) together with Manu Sridharan.
 
-* Served in the PC committees of [ESOP'22](https://etaps.org/2022/esop) and [ICST'22](https://icst2022.vrain.upv.es/), and [ASE 2022 NIER](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track).
+* Served in the PC of [ESOP'22](https://etaps.org/2022/esop) and [ICST'22](https://icst2022.vrain.upv.es/), and [ASE 2022 NIER](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track).
 
 * Attended Dagstuhl Seminar for [Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
 
@@ -38,7 +40,7 @@ My research interests include software testing, debugging, and verification for 
 
 * Invited talk at the [FMT (Formal Methods and Tools) Group](https://www.utwente.nl/en/eemcs/fmt) at the University of Twente, on July 1st, 2021.  
 
-* Served in the PC committees of [ECOOP'21](https://2021.ecoop.org/), [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), and [SAS'21](https://conf.researchr.org/home/sas-2021).  
+* Served in the PC of [ECOOP'21](https://2021.ecoop.org/), [Erlang'21](https://icfp21.sigplan.org/home/erlang-2021), and [SAS'21](https://conf.researchr.org/home/sas-2021).  
  
 <!-- * Served in the PC committee of [SAS'21](https://conf.researchr.org/home/sas-2021), the 28th Static Analysis Symposium.  
 
