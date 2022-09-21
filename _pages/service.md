@@ -9,7 +9,7 @@ author_profile: true
 
 ## Organization:
 
-* Co-chair, [Alice and Eve'22](https://alice-and-eve.github.io/2022/), the third edition of the [workshop for celebrating women in computing](https://www.utwente.nl/en/eemcs/aliceandeve/). 
+* Co-organizer, [Alice and Eve'22](https://alice-and-eve.github.io/2022/), the third edition of the [workshop for celebrating women in computing](https://www.utwente.nl/en/eemcs/aliceandeve/). 
 * Co-chair of Expert Discussions Track, [ECOOP'22](https://2022.ecoop.org/), the 36th European Conf. on Object-Oriented Programming.
 * Co-chair, [Erlang'22](https://icfp22.sigplan.org/), the 21st Edition of the Erlang Workshop organized as a co-located event of [ICFP 2022](https://icfp22.sigplan.org/).
 
