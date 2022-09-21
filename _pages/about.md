@@ -23,9 +23,11 @@ My research interests include software testing, debugging, and verification for 
 
 <!-- <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. -->
 
+* We are organizing the third edition of the [Alice and Eve Workshop 2022](https://alice-and-eve.github.io/2022/) in Delft for celebrating women in computing! It is a free event that welcomes everyone from all genders and diverse backgrounds from bachelor students to full professors. Register  [here](https://mondai.tudelftcampus.nl/en/event/alice-and-eve-celebrating-women-in-computing/) if you're interested.
+
 * I will serve in the PCs of [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla) and [VMCAI'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=167543&copyownerid=176516).
  
-* I co-chair the [Erlang Workshop'22](https://icfp22.sigplan.org/) that will be co-located with [ICFP'22](https://icfp22.sigplan.org/) together with Stavros Aronis.
+* Co-chaired the [Erlang Workshop'22](https://icfp22.sigplan.org/) that will be co-located with [ICFP'22](https://icfp22.sigplan.org/) together with Stavros Aronis.
  
 * Co-chaired the [Expert discussion track](https://2022.ecoop.org/track/expert-discussion) at the [ECOOP'22](https://2022.ecoop.org/) together with Manu Sridharan.
 
