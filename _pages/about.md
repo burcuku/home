@@ -59,11 +59,12 @@ September'20.
 
 * I am honoured to receive the [**Delft Technology Fellowship**](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/campagnes/delft-technology-fellowship/) award for outstanding female academic researchers.
 
+<!--
 * Served the ERC committee of [OOPSLA'20](https://2020.splashcon.org/track/splash-2020-oopsla), the Conference on Object-Oriented Programming Systems, Languages, and Applications.
 
 * Served in the PC committee of [MPLR'20](https://mplr2020.cs.manchester.ac.uk/), the 17th International Conference on Managed Programming Languages & Runtimes.
 
-<!--
+
 <details><summary>Older posts</summary>
 
 * Presented "Trace aware testing of distributed systems" at [OOPSLA'19](https://conf.researchr.org/track/splash-2019/splash-2019-oopsla) in Athens.      
