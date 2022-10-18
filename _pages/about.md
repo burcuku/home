@@ -25,7 +25,9 @@ My research interests include software testing, debugging, and verification for 
 
 * We are organizing the third edition of the [Alice and Eve Workshop 2022](https://alice-and-eve.github.io/2022/) in Delft for celebrating women in computing! It is a free event that welcomes everyone from all genders and diverse backgrounds from bachelor students to full professors. Register  [here](https://mondai.tudelftcampus.nl/en/event/alice-and-eve-celebrating-women-in-computing/) if you're interested.
 
-* I will serve in the PCs of [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla) and [VMCAI'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=167543&copyownerid=176516).
+* I will attend the [Dagstuhl Seminar 22492: Formal Methods and Distributed Computing: Stronger Together](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22492) on December 4-9, 2022.
+
+* I will serve in the PCs of [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla), CAV'23, MET'23, and [VMCAI'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=167543&copyownerid=176516).
  
 * Co-chaired the [Erlang Workshop'22](https://icfp22.sigplan.org/) that will be co-located with [ICFP'22](https://icfp22.sigplan.org/) together with Stavros Aronis.
  
@@ -33,7 +35,7 @@ My research interests include software testing, debugging, and verification for 
 
 * Served in the PCs of [ESOP'22](https://etaps.org/2022/esop) and [ICST'22](https://icst2022.vrain.upv.es/), and [ASE 2022 NIER](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track).
 
-* Attended Dagstuhl Seminar for [Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
+* Attended [Dagstuhl Seminar 21442: Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
 
 
 <!--* I will serve in the PC committee of [ICST'22](https://icst2022.vrain.upv.es/), the 15th IEEE International Conference on Software Testing, Verification and Validation.
