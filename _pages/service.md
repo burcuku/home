@@ -16,7 +16,7 @@ author_profile: true
 
 ## Reviewer in Conferences:
 
-* PC Member, [VSTTE'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=157136&copyownerid=74770), the 15th Int. Conf. on International Conference on Verified Software: Theories, Tools, and Experiments
+* PC Member, [VSTTE'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=157136&copyownerid=74770), the 15th Int. Conf. on Verified Software: Theories, Tools, and Experiments
 * PC Member, [CAV'23](http://www.i-cav.org/2023/), the 35th Int. Conf. on Computer Aided Verification
 * PC Member, [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla), the Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
 * PC Member, [MET'23](http://metwiki.net/MET23/index.html), the 8th Int. Workshop on Metamorphic Testing, in conjunction with [ICSE'23](https://conf.researchr.org/home/icse-2023)
