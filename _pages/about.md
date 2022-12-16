@@ -33,7 +33,7 @@ My research interests focus on model checking, software testing and debugging of
 
 * PC member of [VMCAI'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=167543&copyownerid=176516), [CAV'23](http://www.i-cav.org/2023/), [MET'23](http://metwiki.net/MET23/index.html), [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla), and [VSTTE'23](http://www.wikicfp.com/cfp/program?id=2979&f=Verified).
 
-* Organized the third edition of the [Alice and Eve Workshop](https://alice-and-eve.github.io/2022/) for celebrating women in computing at TU Delft.
+* Organized the third edition of the [Alice and Eve Workshop](https://alice-and-eve.github.io/2022/) for celebrating women in computing at TU Delft on November 18, 2022.
  
 * PC-chaired the [Erlang Workshop'22](https://icfp22.sigplan.org/) that will be co-located with [ICFP'22](https://icfp22.sigplan.org/) together with Stavros Aronis.
  
