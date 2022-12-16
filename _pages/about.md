@@ -37,7 +37,7 @@ My research interests focus on model checking, software testing and debugging of
  
 * PC-chaired the [Erlang Workshop'22](https://icfp22.sigplan.org/) that will be co-located with [ICFP'22](https://icfp22.sigplan.org/) together with Stavros Aronis.
  
-* PC-chaired the [Expert discussion track](https://2022.ecoop.org/track/expert-discussion) at the [ECOOP'22](https://2022.ecoop.org/) together with Manu Sridharan.
+* Chaired the [Expert discussion track](https://2022.ecoop.org/track/expert-discussion) at the [ECOOP'22](https://2022.ecoop.org/) together with Manu Sridharan.
 
 * Served in the PCs of [ESOP'22](https://etaps.org/2022/esop) and [ICST'22](https://icst2022.vrain.upv.es/), and [ASE 2022 NIER](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track).
 
