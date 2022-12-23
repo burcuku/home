@@ -1,5 +1,5 @@
 ---
-title: "[CS4405: Analysis of Concurrent and Distributed Programs](https://cs4405.github.io/)"
+title: "[CS4405: Analysis of Concurrent and Distributed Programs](https://cs4405.github.io/2022)"
 collection: teaching
 type: "Graduate course"
 status: 'past'
