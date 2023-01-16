@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icse-seip23
 excerpt: ''
 date: 2023-05-14
-venue: '45th IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice, ICSE (SEIP) 2023, Melbourne, Australia, May 14-20, 2023'
+venue: '45th IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice, ICSE (SEIP) 2023, Melbourne, Australia, May 14-20, 2023 (to appear)'
 paperurl: ''
 citation: 'Martijn van Meerten, Burcu Kulahcioglu Ozkan, Annibale Panichella. &quot;Evolutionary Approach for Concurrency Testing ofRipple Blockchain Consensus Algorithm.&quot; Proceedings of the 45th IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice, ICSE (SEIP) 2023'
 ---

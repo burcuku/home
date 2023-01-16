@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/asplos23
 excerpt: ''
 date: 2023-02-25
-venue: '28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, ASPLOS'
+venue: '28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, ASPLOS 2023 (to appear)'
 paperurl: ''
 citation: 'Mingyu Gao, Soham Chakraborty, Burcu Kulahcioglu Ozkan. &quot;Probabilistic Concurrency Testing for Weak Memory Programs.&quot; Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, ASPLOS 2023, Vancouver, BC, Canada, March 25-29, 2023'
 ---
