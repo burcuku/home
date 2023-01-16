@@ -1,4 +1,3 @@
-
 ---
 title: "Consistency-Aware Scheduling for Weakly Consistent Programs"
 collection: publications
