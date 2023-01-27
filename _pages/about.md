@@ -25,11 +25,13 @@ My research interests focus on model checking, software testing and debugging of
 
 <!-- <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. -->
 
+* [May'23] Our paper "[Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm](publication/icse-seip23)" with Martijn van Meerten and Annibale Panichella appears at [ICSE-SEIP'23](https://conf.researchr.org/track/icse-2023/icse-2023-SEIP#event-overview).
+
 * [Mar'23] I will attend the [Dagstuhl Seminar 23112: Unifying Formal Methods for Trustworthy Distributed Systems](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23112) on March 12-15, 2023.
 
 * [Mar'23] Our paper "[Probabilistic Concurrency Testing for Weak Memory Programs](publication/asplos23)" with Mingyu Gao and Soham Chakraborty appears at [ASPLOS'23](https://asplos-conference.org/).
 
-* [Jan'23] I will give an invited talk at the [SUMO (SUpervision of large MOdular and distributed systems)](http://www.irisa.fr/sumo/index.html) team seminar at Inria Rennes Bretagne-Atlantique research center and IRISA lab on January 12, 2023.
+* [Jan'23] Invited talk at the [SUMO (SUpervision of large MOdular and distributed systems)](http://www.irisa.fr/sumo/index.html) team seminar at Inria Rennes Bretagne-Atlantique research center and IRISA lab on January 12, 2023.
 
 * [Dec'22] Attended the [Dagstuhl Seminar 22492: Formal Methods and Distributed Computing: Stronger Together](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22492) on December 4-9, 2022.
 
