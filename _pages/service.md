@@ -10,9 +10,10 @@ author_profile: true
 ## Organization:
 
 <!-- * Co-chair, [Erlang'23](https://icfp22.sigplan.org/series/erlang), the 22nd Edition of the Erlang Workshop organized as a co-located event of [ICFP 2023](https://icfp23.sigplan.org/). -->
-* Co-organizer, [Alice and Eve'22](https://alice-and-eve.github.io/2022/), the third edition of the [workshop for celebrating women in computing](https://www.utwente.nl/en/eemcs/aliceandeve/). 
-* Co-chair of Expert Discussions Track, [ECOOP'22](https://2022.ecoop.org/), the 36th European Conf. on Object-Oriented Programming.
-* Co-chair, [Erlang'22](https://icfp22.sigplan.org/), the 21st Edition of the Erlang Workshop organized as a co-located event of [ICFP 2022](https://icfp22.sigplan.org/).
+* Co-organizer, [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/) co-located with [CAV'23](http://www.i-cav.org/2023/), 2023.
+* Co-organizer, [Alice and Eve'22](https://alice-and-eve.github.io/2022/), the third edition of the [workshop for celebrating women in computing](https://www.utwente.nl/en/eemcs/aliceandeve/), 2022.
+* Co-chair of Expert Discussions Track, [ECOOP'22](https://2022.ecoop.org/), the 36th European Conf. on Object-Oriented Programming, 2022.
+* Co-chair, [Erlang'22](https://icfp22.sigplan.org/), the 21st Edition of the Erlang Workshop organized as a co-located event of [ICFP 2022](https://icfp22.sigplan.org/), 2022.
 
 ## Reviewer in Conferences:
 

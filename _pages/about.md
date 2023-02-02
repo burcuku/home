@@ -19,17 +19,19 @@ My research interests focus on model checking, software testing and debugging of
 
 ## News: 
 
-<span style="color:#000080">**Looking for a motivated PhD student to work on model checking and software testing for blockchain systems. [Reach me](mailto:b.ozkan@tudelft.nl) with a motivation letter if you are interested.**</span>
+<span style="color:#000080">**Looking for a motivated PhD student to work on model checking and software testing for blockchain systems. [Reach me](mailto:b.ozkan@tudelft.nl) with a motivation letter if you are interested.**</span> 
 
 <!--You can find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)! -->
 
 <!-- <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. -->
 
-* [May'23] Our paper "[Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm](publication/icse-seip23)" with Martijn van Meerten and Annibale Panichella appears at [ICSE-SEIP'23](https://conf.researchr.org/track/icse-2023/icse-2023-SEIP#event-overview).
+<!-- * [May'23] Our paper "[Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm](publication/icse-seip23)" with Martijn van Meerten and Annibale Panichella appears at [ICSE-SEIP'23](https://conf.researchr.org/track/icse-2023/icse-2023-SEIP#event-overview). -->
+
+* I co-organize the [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/) together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, which will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
+
+* [Mar'23] Our paper "[Probabilistic Concurrency Testing for Weak Memory Programs](https://dl.acm.org/doi/10.1145/3575693.3575729)" with Mingyu Gao and Soham Chakraborty appears at [ASPLOS'23](https://asplos-conference.org/).
 
 * [Mar'23] I will attend the [Dagstuhl Seminar 23112: Unifying Formal Methods for Trustworthy Distributed Systems](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23112) on March 12-15, 2023.
-
-* [Mar'23] Our paper "[Probabilistic Concurrency Testing for Weak Memory Programs](publication/asplos23)" with Mingyu Gao and Soham Chakraborty appears at [ASPLOS'23](https://asplos-conference.org/).
 
 * [Jan'23] Invited talk at the [SUMO (SUpervision of large MOdular and distributed systems)](http://www.irisa.fr/sumo/index.html) team seminar at Inria Rennes Bretagne-Atlantique research center and IRISA lab on January 12, 2023.
 
