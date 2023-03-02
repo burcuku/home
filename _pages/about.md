@@ -21,13 +21,19 @@ My research interests focus on model checking, software testing and debugging of
 
 <span style="color:#000080">**Looking for a motivated PhD student to work on model checking and software testing for blockchain systems. [Reach me](mailto:b.ozkan@tudelft.nl) with a motivation letter if you are interested.**</span> 
 
+* Our paper [Randomized Testing of Byzantine Fault Tolerant Algorithms](https://2023.splashcon.org/track/splash-2023-oopsla) with Levin N. Winter, Florena Buse, Daan de Graaf, and Klaus von Gleissenthall has been accepted to OOPSLA'23!   
+
+* Here's a [link to the ligthning talk](https://www.youtube.com/watch?v=jQ-j783ALMY) for the ASPLOS'23 paper ["Probabilistic Concurrency Testing for Weak Memory Programs"](https://dl.acm.org/doi/10.1145/3575693.3575729). More at the conference talk!  
+
+
 <!--You can find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)! -->
 
 <!-- <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. -->
 
-<!-- * [May'23] Our paper "[Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm](publication/icse-seip23)" with Martijn van Meerten and Annibale Panichella appears at [ICSE-SEIP'23](https://conf.researchr.org/track/icse-2023/icse-2023-SEIP#event-overview). -->
 
 * I co-organize the [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/) together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, which will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
+
+* Our paper "[Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm](publication/icse-seip23)" with Martijn van Meerten and Annibale Panichella appears at [ICSE-SEIP'23](https://conf.researchr.org/track/icse-2023/icse-2023-SEIP#event-overview).
 
 * [Mar'23] Our paper "[Probabilistic Concurrency Testing for Weak Memory Programs](https://dl.acm.org/doi/10.1145/3575693.3575729)" with Mingyu Gao and Soham Chakraborty appears at [ASPLOS'23](https://asplos-conference.org/).
 
