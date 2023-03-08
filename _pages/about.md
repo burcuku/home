@@ -21,7 +21,7 @@ My research interests focus on model checking, software testing and debugging of
 
 <span style="color:#000080">**Looking for a motivated PhD student to work on model checking and software testing for blockchain systems. [Reach me](mailto:b.ozkan@tudelft.nl) with a motivation letter if you are interested.**</span> 
 
-* The call for papers for the [ACM SIGPLAN Erlang Workshop'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), which we co-chair together with Kiko Fernandez-Reyes, is now open. Submissions related to Erlang, Elixir, Lisp Flavored Erlang, and topics in functional, concurrent, and distributed programming are welcome and encouraged!  
+* The call for papers for the [ACM SIGPLAN Erlang Workshop'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), we co-chair together with Kiko Fernandez-Reyes, is now open. Submissions related to Erlang, Elixir, Lisp Flavored Erlang, and topics in functional, concurrent, and distributed programming are welcome and encouraged!  
 
 * Our paper [Randomized Testing of Byzantine Fault Tolerant Algorithms](https://2023.splashcon.org/details/splash-2023-oopsla/27/Randomized-Testing-of-Byzantine-Fault-Tolerant-Algorithmsh) with Levin N. Winter, Florena Buse, Daan de Graaf, and Klaus von Gleissenthall has been accepted to [OOPSLA'23](ttps://2023.splashcon.org/track/splash-2023-oopsla)!   
 
