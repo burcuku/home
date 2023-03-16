@@ -3,7 +3,7 @@ title: "Randomized Testing of Byzantine Fault Tolerant Algorithms"
 collection: publications
 permalink: /publication/oopsla23
 excerpt: ''
-date: 2023-02-25
+date: 2023-10-22
 venue: 'Proceedings of the ACM on Programming Languages (PACMPL), volume 7, OOPSLA(1) (to appear)'
 paperurl: ''
 citation: 'Levin N. Winter, Florena Buse, Daan de Graaf, Klaus von Gleissenthall, Burcu Kulahcioglu Ozkan. &quot;Randomized Testing of Byzantine Fault Tolerant Algorithms.&quot; 2023 volume of PACMPL(OOPSLA)'
