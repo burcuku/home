@@ -37,7 +37,7 @@ My research interests focus on model checking, software testing and debugging of
 
 * Our paper "[Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm](publication/icse-seip23)" with Martijn van Meerten and Annibale Panichella appears at [ICSE-SEIP'23](https://conf.researchr.org/track/icse-2023/icse-2023-SEIP#event-overview).
 
-* Our paper "[Probabilistic Concurrency Testing for Weak Memory Programs](https://dl.acm.org/doi/10.1145/3575693.3575729)" with Mingyu Gao and Soham Chakraborty appears at [ASPLOS'23](https://asplos-conference.org/)! [**(pdf)**](../files/asplos23-pctwm.pdf) 
+* Our paper "[Probabilistic Concurrency Testing for Weak Memory Programs](https://dl.acm.org/doi/10.1145/3575693.3575729)" with Mingyu Gao and Soham Chakraborty appears at [ASPLOS'23](https://asplos-conference.org/)! [**(pdf)**](files/asplos23-pctwm.pdf) 
 
 * [Mar'23] I will attend the [Dagstuhl Seminar 23112: Unifying Formal Methods for Trustworthy Distributed Systems](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23112) on March 12-15, 2023.
 
