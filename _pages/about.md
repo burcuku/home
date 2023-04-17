@@ -23,7 +23,7 @@ My research interests focus on model checking, software testing and debugging of
 
 * [Apr'23] I’m excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
 
-* [Apr'23] The deadline for the scholarship for [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/), we co-organize together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, is extended to May 5th! VMW'23 will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
+* [Apr'23] The deadline for scholarship applications for [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/), we co-organize together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, is extended to May 5th! VMW'23 will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
 
 * I will serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages) and [ASPLOS'24](https://asplos-conference.org/).
 
