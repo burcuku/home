@@ -21,9 +21,14 @@ My research interests focus on model checking, software testing and debugging of
 
 <span style="color:#000080">**Looking for a motivated PhD student to work on model checking and software testing for blockchain systems. [Reach me](mailto:b.ozkan@tudelft.nl) with a motivation letter if you are interested.**</span> 
 
-* The call for papers for the [ACM SIGPLAN Erlang Workshop'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), we co-chair together with Kiko Fernandez-Reyes, is now open. Submissions related to Erlang, Elixir, Lisp Flavored Erlang, and topics in functional, concurrent, and distributed programming are welcome and encouraged!  
+* [Apr'23] I’m excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
 
-* Our paper [Randomized Testing of Byzantine Fault Tolerant Algorithms](https://2023.splashcon.org/details/splash-2023-oopsla/27/Randomized-Testing-of-Byzantine-Fault-Tolerant-Algorithmsh) with Levin N. Winter, Florena Buse, Daan de Graaf, and Klaus von Gleissenthall has been accepted to [OOPSLA'23](ttps://2023.splashcon.org/track/splash-2023-oopsla)!   
+* [Apr'23] The deadline for the scholarship for [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/), we co-organize together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, is extended to May 5th! VMW'23 will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
+
+* I will serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages) and [ASPLOS'24](https://asplos-conference.org/).
+
+  
+* [Apr'23] The call for papers for the [ACM SIGPLAN Erlang Workshop'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), we co-chair together with Kiko Fernandez-Reyes, is open. Submissions related to Erlang, Elixir, Lisp Flavored Erlang, and topics in functional, concurrent, and distributed programming are welcome and encouraged!  
 
 <!-- * Here's a [link to the ligthning talk](https://www.youtube.com/watch?v=jQ-j783ALMY) for our [ASPLOS'23](https://asplos-conference.org/) paper ["Probabilistic Concurrency Testing for Weak Memory Programs"](https://dl.acm.org/doi/10.1145/3575693.3575729). More at the conference talk!  -->
 
@@ -33,23 +38,25 @@ My research interests focus on model checking, software testing and debugging of
 <!-- <span style="color:#00A6D6">**[Available MSc projects]**</span> Visit the [research group webpage](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency) and  [reach me](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains. -->
 
 
-* I co-organize the [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/) together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, which will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
+* [March'23] Attended the [Dagstuhl Seminar 23112: Unifying Formal Methods for Trustworthy Distributed Systems](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23112) on March 12-15, 2023.
 
-* Our paper "[Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm](publication/icse-seip23)" with Martijn van Meerten and Annibale Panichella appears at [ICSE-SEIP'23](https://conf.researchr.org/track/icse-2023/icse-2023-SEIP#event-overview).
+* [Feb'23] Our paper [Randomized Testing of Byzantine Fault Tolerant Algorithms](https://2023.splashcon.org/details/splash-2023-oopsla/27/Randomized-Testing-of-Byzantine-Fault-Tolerant-Algorithmsh) with Levin N. Winter, Florena Buse, Daan de Graaf, and Klaus von Gleissenthall has been accepted to [OOPSLA'23](ttps://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](https://dl.acm.org/doi/10.1145/3586053)  
 
-* Our paper "[Probabilistic Concurrency Testing for Weak Memory Programs](https://dl.acm.org/doi/10.1145/3575693.3575729)" with Mingyu Gao and Soham Chakraborty appears at [ASPLOS'23](https://asplos-conference.org/)! [**(pdf)**](files/asplos23-pctwm.pdf) 
 
-* [Mar'23] I will attend the [Dagstuhl Seminar 23112: Unifying Formal Methods for Trustworthy Distributed Systems](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23112) on March 12-15, 2023.
+* I serve in the PCs of [VMCAI'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=167543&copyownerid=176516), [MET'23](http://metwiki.net/MET23/index.html), [CAV'23](http://www.i-cav.org/2023/), [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla), and [VSTTE'23](http://www.wikicfp.com/cfp/program?id=2979&f=Verified).
+
+* [Jan'23] Our paper "[Probabilistic Concurrency Testing for Weak Memory Programs](https://dl.acm.org/doi/10.1145/3575693.3575729)" with Mingyu Gao and Soham Chakraborty appears at [ASPLOS'23](https://asplos-conference.org/)! [**(pdf)**](files/asplos23-pctwm.pdf) 
 
 * [Jan'23] Invited talk at the [SUMO (SUpervision of large MOdular and distributed systems)](http://www.irisa.fr/sumo/index.html) team seminar at Inria Rennes Bretagne-Atlantique research center and IRISA lab on January 12, 2023.
 
-* [Dec'22] Attended the [Dagstuhl Seminar 22492: Formal Methods and Distributed Computing: Stronger Together](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22492) on December 4-9, 2022.
+* [Dec'22] Our paper "[Evolutionary Approach for Concurrency Testing of Ripple Blockchain Consensus Algorithm](publication/icse-seip23)" with Martijn van Meerten and Annibale Panichella appears at [ICSE-SEIP'23](https://conf.researchr.org/track/icse-2023/icse-2023-SEIP#event-overview).
 
-* I am a PC member of [VMCAI'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=167543&copyownerid=176516), [CAV'23](http://www.i-cav.org/2023/), [MET'23](http://metwiki.net/MET23/index.html), [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla), and [VSTTE'23](http://www.wikicfp.com/cfp/program?id=2979&f=Verified).
+* [Dec'22] Attended the [Dagstuhl Seminar 22492: Formal Methods and Distributed Computing: Stronger Together](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22492) on December 4-9, 2022.
 
 * [Dec'22] Happy to interview with the [I/O Magazine, ICT Platform Nederland](https://ict-research.nl/wordpress/wp-content/uploads/2022/12/IO-magazine-NR4-2022_online.pdf) about "Challenges of Concurrency". 
 
 * [Nov'22] Organized the third edition of the [Alice and Eve Workshop](https://alice-and-eve.github.io/2022/) for celebrating women in computing at TU Delft on November 18, 2022.
+
  
 * [Sep'22] PC-chaired the [Erlang Workshop'22](https://icfp22.sigplan.org/) that will be co-located with [ICFP'22](https://icfp22.sigplan.org/) together with Stavros Aronis.
  
@@ -58,7 +65,6 @@ My research interests focus on model checking, software testing and debugging of
 * Served in the PCs of [ESOP'22](https://etaps.org/2022/esop) and [ICST'22](https://icst2022.vrain.upv.es/), and [ASE 2022 NIER](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track).
 
 * Attended [Dagstuhl Seminar 21442: Ensuring the Reliability and Robustness of Database Management Systems](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21442) on November 1-4, 2021.
-
 
 <!--* I will serve in the PC committee of [ICST'22](https://icst2022.vrain.upv.es/), the 15th IEEE International Conference on Software Testing, Verification and Validation.
 
