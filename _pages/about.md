@@ -21,12 +21,16 @@ My research interests focus on model checking, software testing and debugging of
 
 <span style="color:#000080">**Looking for a motivated PhD student to work on model checking and software testing for blockchain systems. [Reach me](mailto:b.ozkan@tudelft.nl) with a motivation letter if you are interested.**</span> 
 
-* [Apr'23] I’m excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
+* [Apr'23] Excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
+
+* I'll give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare), which will be held in Brussels in September. The program is targeted to master and PhD students in Computer Science. The registration deadline is May 15th. [Apply here](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare) with a motivation letter if you're interested.
 
 * [Apr'23] The deadline for scholarship applications for [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/), we co-organize together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, is extended to May 5th! VMW'23 will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
 
 * I will serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages) and [ASPLOS'24](https://asplos-conference.org/).
 
+
+* I will give a tutorial at the [Summer School on Distributed and Replicated Environments (DARE 2023)] ()
   
 * [Apr'23] The call for papers for the [ACM SIGPLAN Erlang Workshop'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), we co-chair together with Kiko Fernandez-Reyes, is open. Submissions related to Erlang, Elixir, Lisp Flavored Erlang, and topics in functional, concurrent, and distributed programming are welcome and encouraged!  
 
