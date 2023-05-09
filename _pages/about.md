@@ -29,8 +29,6 @@ My research interests focus on model checking, software testing and debugging of
 
 * I will serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages) and [ASPLOS'24](https://asplos-conference.org/).
 
-
-* I will give a tutorial at the [Summer School on Distributed and Replicated Environments (DARE 2023)] ()
   
 * [Apr'23] The call for papers for the [ACM SIGPLAN Erlang Workshop'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), we co-chair together with Kiko Fernandez-Reyes, is open. Submissions related to Erlang, Elixir, Lisp Flavored Erlang, and topics in functional, concurrent, and distributed programming are welcome and encouraged!  
 
