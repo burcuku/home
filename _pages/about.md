@@ -9,7 +9,7 @@ redirect_from:
 ---
  
 
-I am a tenure-track Assistant Professor and Delft Technology Fellow in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at the Delft University of Technology (TU Delft). Before that, I was a postdoc researcher at the Max Planck Institute for Software Systems (MPI-SWS) in the Rigorous Software Engineering Group, working with Rupak Majumdar. I got my PhD from Koç University under the supervision of Serdar Tasiran.
+I am an Assistant Professor and Delft Technology Fellow in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at the Delft University of Technology (TU Delft). Before that, I was a postdoc researcher at the Max Planck Institute for Software Systems (MPI-SWS) in the Rigorous Software Engineering Group, working with Rupak Majumdar. I got my PhD from Koç University under the supervision of Serdar Tasiran.
 
 My research interests focus on model checking, software testing and debugging of concurrent programs and distributed systems. You can visit [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency/) research line for more information.
 
@@ -23,11 +23,11 @@ My research interests focus on model checking, software testing and debugging of
 
 * [Apr'23] Excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
 
-* I'll give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare), which will be held in Brussels in September. The program is targeted to master and PhD students in Computer Science. The registration deadline is May 15th. [Apply here](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare) with a motivation letter if you're interested.
+* I'll give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/), which will be held in Brussels in September. The program is targeted to master and PhD students in Computer Science. The registration deadline is May 15th. [Apply here](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare) with a motivation letter if you're interested.
 
 * [Apr'23] The deadline for scholarship applications for [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/), we co-organize together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, is extended to May 5th! VMW'23 will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
 
-* I will serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages) and [ASPLOS'24](https://asplos-conference.org/).
+* I will serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
 
   
 * [Apr'23] The call for papers for the [ACM SIGPLAN Erlang Workshop'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), we co-chair together with Kiko Fernandez-Reyes, is open. Submissions related to Erlang, Elixir, Lisp Flavored Erlang, and topics in functional, concurrent, and distributed programming are welcome and encouraged!  

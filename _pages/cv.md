@@ -53,6 +53,8 @@ Education
 Honors and Awards
 ======
 
+* __2023 Amazon Research Award__ for my research project proposal on "Coverage-Directed random Testing of Distributed Systems"
+
 * __2020 Delft Technology Fellowship__ award for outstanding female academic researchers
 
 * __2018__ Distinguished Paper Award, Object-Oriented Programming, Systems, Languages
