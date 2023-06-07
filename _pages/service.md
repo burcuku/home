@@ -17,6 +17,9 @@ author_profile: true
 
 ## Reviewer in Conferences:
 
+* PC Member, [OOPSLA'24](https://2024.splashcon.org/track/splash-2024-oopsla), the Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
+* PC Member, [ASPLOS'24](https://www.asplos-conference.org/asplos2024/), the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+* PC Member, [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), the 25th Int. Conf. on Verification, Model Checking, and Abstract Interpretation
 * PC Member, [SEFM'23](https://sefm-conference.github.io/2023/), the 21st Int. Conf. on Software Engineering and Formal Methods 
 * PC Member, [VSTTE'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=157136&copyownerid=74770), the 15th Int. Conf. on Verified Software: Theories, Tools, and Experiments
 * PC Member, [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla), the Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
