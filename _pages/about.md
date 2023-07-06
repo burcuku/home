@@ -21,11 +21,20 @@ My research interests focus on model checking, software testing and debugging of
 
 <span style="color:#000080">**Looking for a motivated PhD student to work on model checking and software testing for blockchain systems. [Reach me](mailto:b.ozkan@tudelft.nl) with a motivation letter if you are interested.**</span> 
 
-* [Apr'23] Excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
 
-* I'll give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/), which will be held in Brussels in September. The program is targeted to master and PhD students in Computer Science. The registration deadline is May 15th. [Apply here](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare) with a motivation letter if you're interested.
+* Looking forward to my first keynote talk at [SEFM'23 - 21st International Conference on
+Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/).  More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced). SEFM'23 will be held in 6-10 November 2023
+Organised by Eindhoven University of Technology, The Netherlands. 
 
-* [Apr'23] The deadline for scholarship applications for [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/), we co-organize together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, is extended to May 5th! VMW'23 will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
+* Excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
+
+* I'll give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/), and [Second Summer School on Security Testing and Verification](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2023) which will be held in Brussels in September. 
+
+<!-- The programs are targeted to master and PhD students in Computer Science. The registration deadline is May 15th. [Apply here](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare) with a motivation letter if you're interested. -->
+
+* Congratulations to my Honour's Programme students [Levin Winter](https://de.linkedin.com/in/levinwinter) and [Florena Buse](https://nl.linkedin.com/in/florena-buse) for receiving [Ripple's Bug Bounty Award](https://www.tudelft.nl/2023/ewi/st/levin-winter-and-florena-buse-win-ripple-bug-bounty-award), working on our [randomized testing method ByzzFuzz](https://dl.acm.org/doi/10.1145/3586053) for testing blockchain implementations. Very well done with the detection and [source code fix](https://github.com/XRPLF/rippled/pull/4424) of the bug. 
+ 
+* The deadline for scholarship applications for [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/), we co-organize together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, is extended to May 5th! VMW'23 will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
 
 * I will serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
 
