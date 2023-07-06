@@ -28,7 +28,7 @@ Organised by Eindhoven University of Technology, The Netherlands.
 
 * Excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
 
-* I'll give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/) on 11-15 September, and [Second Summer School on Security Testing and Verification](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2023) on 11-13 September, which will be held in Brussels in September.
+* I'll give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/) (11-15 September), and [Second Summer School on Security Testing and Verification](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2023) (11-13 September), which will be held in Brussels, Belgium.
 
 <!-- The programs are targeted to master and PhD students in Computer Science. The registration deadline is May 15th. [Apply here](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare) with a motivation letter if you're interested. -->
 
