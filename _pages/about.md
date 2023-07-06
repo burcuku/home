@@ -22,9 +22,8 @@ My research interests focus on model checking, software testing and debugging of
 <span style="color:#000080">**Looking for a motivated PhD student to work on model checking and software testing for blockchain systems. [Reach me](mailto:b.ozkan@tudelft.nl) with a motivation letter if you are interested.**</span> 
 
 
-* Looking forward to my keynote talk at [SEFM'23 - 21st International Conference on
-Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/).  More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced). SEFM'23 will be held in 6-10 November 2023
-Organised by Eindhoven University of Technology, The Netherlands. 
+* Looking forward to give a keynote talk at [SEFM'23 - 21st International Conference on
+Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/). SEFM'23 will be held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
 
 * Excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
 
