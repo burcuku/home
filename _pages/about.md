@@ -19,23 +19,30 @@ My research interests focus on model checking, software testing and debugging of
 
 ## News: 
 
-<span style="color:#000080">**Looking for a motivated PhD student to work on model checking and software testing for blockchain systems. [Reach me](mailto:b.ozkan@tudelft.nl) with a motivation letter if you are interested.**</span> 
+<span style="color:#000080">**Hiring a PHD student (apply until October 16th). More information on the [application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14179).**</span> 
 
 
-* Looking forward to give a keynote talk at [SEFM'23 - 21st International Conference on
+* Looking forward to give a keynote talk at [SEFM'23 - The 21st International Conference on
 Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/). SEFM'23 will be held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
+
+* I'm coorganizing the [ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium) together with Alessandra Gorla. More information will be available soon!
+
+* Happy to share that I’ve received [Stellar Academic Research Grant](https://stellar.org/grants-and-funding) for my research proposal on "Feedback-guided fault injection testing of blockchain systems". Thanks to Stellar Development Foundation for suuporting my research!
+
+* It was great to give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/) (11-15 September), and [Second Summer School on Security Testing and Verification](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2023) (11-13 September), held in Brussels, Belgium.
+
+* I serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
 
 * Excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
 
-* I'll give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/) (11-15 September), and [Second Summer School on Security Testing and Verification](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2023) (11-13 September), which will be held in Brussels, Belgium.
 
 <!-- The programs are targeted to master and PhD students in Computer Science. The registration deadline is May 15th. [Apply here](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare) with a motivation letter if you're interested. -->
 
-* Congratulations to my Honour's Programme students [Levin Winter](https://de.linkedin.com/in/levinwinter) and [Florena Buse](https://nl.linkedin.com/in/florena-buse) for receiving [Ripple's Bug Bounty Award](https://www.tudelft.nl/2023/ewi/st/levin-winter-and-florena-buse-win-ripple-bug-bounty-award), working on our [randomized testing method ByzzFuzz](https://dl.acm.org/doi/10.1145/3586053) for testing blockchain implementations. Very well done with the detection and [source code fix](https://github.com/XRPLF/rippled/pull/4424) of the bug. 
+* Congratulations to my Honour's Programme students [Levin Winter](https://de.linkedin.com/in/levinwinter) and [Florena Buse](https://nl.linkedin.com/in/florena-buse) for receiving [Ripple's Bug Bounty Award](https://www.tudelft.nl/2023/ewi/st/levin-winter-and-florena-buse-win-ripple-bug-bounty-award), working on our [randomized testing method, ByzzFuzz](https://dl.acm.org/doi/10.1145/3586053) for testing blockchain implementations. Very well done with the detection and [source code fix](https://github.com/XRPLF/rippled/pull/4424) of the bug! [Levin Winter](https://de.linkedin.com/in/levinwinter)'s contribution to the bug fix is acknowledged in the release notes of [XRP Ledger version 1.10.0](https://xrpl.org/blog/2023/rippled-1.10.0.html).
+
  
 * The deadline for scholarship applications for [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/), we co-organize together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, is extended to May 5th! VMW'23 will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
 
-* I will serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
 
   
 * [Apr'23] The call for papers for the [ACM SIGPLAN Erlang Workshop'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), we co-chair together with Kiko Fernandez-Reyes, is open. Submissions related to Erlang, Elixir, Lisp Flavored Erlang, and topics in functional, concurrent, and distributed programming are welcome and encouraged!  

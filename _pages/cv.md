@@ -53,7 +53,11 @@ Education
 Honors and Awards
 ======
 
-* __2023 Amazon Research Award__ for my research project proposal on "Coverage-Directed random Testing of Distributed Systems"
+* __2023 Stellar Academic Research Grant__ for my research project proposal on "Feedback-guided fault injection testing of blockchain systems"
+
+* __2023 Ripple Bug Bounty Program Award__ for the bug we discovered by our ByzzFuzz randomized testing method for testing Byzantine fault-tolerant algorithms (published at OOPSLA'23). 
+
+* __2022 Amazon Research Award__ in automated reasoning, for my research project proposal on "Coverage-directed random testing of distributed systems"
 
 * __2020 Delft Technology Fellowship__ award for outstanding female academic researchers
 

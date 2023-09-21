@@ -9,6 +9,7 @@ author_profile: true
 
 ## Organization:
 
+* Co-organizer, [ISSTA Doctoral Symposium](https://2024.issta.org/track/issta-2024-doctoral-symposium) at [ISSTA 2024](https://2024.issta.org/).
 * Co-chair, [Erlang'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), the 22nd Edition of the ACM SIGPLAN Erlang Workshop, a co-located event of [ICFP 2023](https://icfp23.sigplan.org/).
 * Co-organizer, [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/) co-located with [CAV 2023](http://www.i-cav.org/2023/).
 * Co-organizer, [Alice and Eve'22](https://alice-and-eve.github.io/2022/), the third edition of the [workshop for celebrating women in computing](https://www.utwente.nl/en/eemcs/aliceandeve/), 2022.
