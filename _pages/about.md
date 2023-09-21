@@ -27,7 +27,7 @@ Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/
 
 * I'm coorganizing the [ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium) together with Alessandra Gorla. More information will be available soon!
 
-* Happy to share that I’ve received [Stellar Academic Research Grant](https://stellar.org/grants-and-funding) for my research proposal on "Feedback-guided fault injection testing of blockchain systems". Thanks to Stellar Development Foundation for suuporting my research!
+* Happy to share that I’ve received [Stellar Academic Research Grant](https://stellar.org/grants-and-funding) for my research proposal on "Feedback-guided fault injection testing of blockchain systems". Thanks to Stellar Development Foundation for supporting my research!
 
 * It was great to give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/) (11-15 September), and [Second Summer School on Security Testing and Verification](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2023) (11-13 September), held in Brussels, Belgium.
 
