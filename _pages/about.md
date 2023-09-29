@@ -25,6 +25,9 @@ My research interests focus on model checking, software testing and debugging of
 * Looking forward to give a keynote talk at [SEFM'23 - The 21st International Conference on
 Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/). SEFM'23 will be held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
 
+* I'll attend [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
+](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441) on October 29-November 03, 2023. 
+ 
 * I'm coorganizing the [ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium) together with Alessandra Gorla. More information will be available soon!
 
 * Happy to share that I’ve received [Stellar Academic Research Grant](https://stellar.org/grants-and-funding) for my research proposal on "Feedback-guided fault injection testing of blockchain systems". Thanks to Stellar Development Foundation for supporting my research!
