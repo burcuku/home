@@ -21,7 +21,7 @@ My research interests focus on model checking, software testing and debugging of
 
 <!--<span style="color:#000080">**Hiring a PHD student (apply until October 16th). More information on the [application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14179).**</span> -->
 
-* Great news! Our paper ["**Randomized Testing of Byzantine Fault Tolerant Algorithms**"](https://dl.acm.org/doi/abs/10.1145/3586053) has received <span style="color:#000080">"**Distinguished paper award**"</span> at [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](../files/oopsla23-byzzfuzz.pdf)
+* Great news! Our paper ["**Randomized Testing of Byzantine Fault Tolerant Algorithms**"](https://dl.acm.org/doi/abs/10.1145/3586053) has received <span style="color:#000080">"**Distinguished paper award**"</span> at [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](files/oopsla23-byzzfuzz.pdf)
 
 * Looking forward to give a keynote talk at [SEFM'23 - The 21st International Conference on
 Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/). SEFM'23 will be held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
