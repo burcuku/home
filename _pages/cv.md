@@ -53,6 +53,8 @@ Education
 Honors and Awards
 ======
 
+* __2023__ Distinguished Paper Award, with the paper "Randomized Testing of Byzantine Fault Tolerant Algorithms", Object-Oriented Programming, Systems, Languages and Applications (OOPSLA)
+
 * __2023 Stellar Academic Research Grant__ for my research project proposal on "Feedback-guided fault injection testing of blockchain systems"
 
 * __2023 Ripple Bug Bounty Program Award__ for the bug we discovered by our ByzzFuzz randomized testing method for testing Byzantine fault-tolerant algorithms (published at OOPSLA'23). 
@@ -61,8 +63,7 @@ Honors and Awards
 
 * __2020 Delft Technology Fellowship__ award for outstanding female academic researchers
 
-* __2018__ Distinguished Paper Award, Object-Oriented Programming, Systems, Languages
-and Applications (OOPSLA)
+* __2018__ Distinguished Paper Award, with the paper "Randomized Testing of Distributed Systems with Probabilistic Guarantees", Object-Oriented Programming, Systems, Languages and Applications (OOPSLA)
 
 * __2011__ The Turkish Council for Scientific and Technical Research (TUBITAK) Fellowship
 for PhD Students
