@@ -23,21 +23,21 @@ My research interests focus on model checking, software testing and debugging of
 
 * Great news! Our paper ["**Randomized Testing of Byzantine Fault Tolerant Algorithms**"](https://dl.acm.org/doi/abs/10.1145/3586053) has received <span style="color:#000080">"**Distinguished paper award**"</span> at [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](files/oopsla23-byzzfuzz.pdf)
 
-* Looking forward to give a keynote talk at [SEFM'23 - The 21st International Conference on
-Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/). SEFM'23 will be held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
+* Looking forward to give a keynote talk at **[SEFM'23 - The 21st International Conference on
+Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**. SEFM'23 will be held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
 
-* I'll attend [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
-](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441) on October 29-November 03, 2023. 
- 
-* I'm coorganizing the [ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium) together with Alessandra Gorla. More information will be available soon!
+* I'm coorganizing the **[ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium)** together with Alessandra Gorla. More information will be available soon!
 
-* Happy to share that I’ve received [Stellar Academic Research Grant](https://stellar.org/grants-and-funding) for my research proposal on "Feedback-guided fault injection testing of blockchain systems". Thanks to Stellar Development Foundation for supporting my research!
+<!-- * I'll attend [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
+](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441) on October 29-November 03, 2023. -->
+
+* Happy to share that I’ve received <span style="color:#000080">**"Stellar Academic Research Grant"**</span>  for my research proposal on "Feedback-guided fault injection testing of blockchain systems". Thanks to Stellar Development Foundation for supporting my research!
 
 * It was great to give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/) (11-15 September), and [Second Summer School on Security Testing and Verification](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2023) (11-13 September), held in Brussels, Belgium.
 
 * I serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
 
-* Excited to share that I’ve received an Amazon Research Award for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
+* Excited to share that I’ve received an <span style="color:#000080">**"Amazon Research Award"**</span>  for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
 
 
 <!-- The programs are targeted to master and PhD students in Computer Science. The registration deadline is May 15th. [Apply here](https://www.vub.be/en/studying-vub/all-study-programmes-vub/personal-development-during-your-studies/short-courses/first-summer-school-dare) with a motivation letter if you're interested. -->
@@ -106,7 +106,7 @@ Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/
 * I am excited to start working as an Assistant Professor at the TU Delft Software Engineering Research Group ([SERG](https://se.ewi.tudelft.nl/)) as of 
 September'20.
 
-* I am happy to receive the [**Delft Technology Fellowship**](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/campagnes/delft-technology-fellowship/) award for outstanding female academic researchers.
+* I am happy to receive the <span style="color:#000080">**[Delft Technology Fellowship](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/campagnes/delft-technology-fellowship/)**</span> for outstanding female academic researchers.
 
 <!--
 * Served the ERC committee of [OOPSLA'20](https://2020.splashcon.org/track/splash-2020-oopsla), the Conference on Object-Oriented Programming Systems, Languages, and Applications.
