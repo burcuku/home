@@ -9,7 +9,9 @@ redirect_from:
 ---
  
 
-I am an Assistant Professor and Delft Technology Fellow in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at the Delft University of Technology (TU Delft). Before that, I was a postdoc researcher at the Max Planck Institute for Software Systems (MPI-SWS) in the Rigorous Software Engineering Group, working with Rupak Majumdar. I got my PhD from Koç University under the supervision of Serdar Tasiran.
+I am an Assistant Professor and Delft Technology Fellow in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at the Delft University of Technology (TU Delft). Before that, I was a postdoc researcher at the Max Planck Institute for Software Systems (MPI-SWS) in the Rigorous Software Engineering Group, working with [Rupak Majumdar](https://people.mpi-sws.org/~rupak/). I got my PhD from Koç University under the supervision of [Serdar Tasiran](https://www.tasiran.org/).
+
+*See [Academic Geneology](https://www.mathgenealogy.org/id.php?id=239693)*
 
 My research interests focus on model checking, software testing and debugging of concurrent programs and distributed systems. You can visit [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency/) research line for more information.
 
@@ -17,19 +19,29 @@ My research interests focus on model checking, software testing and debugging of
 
 
 
+<!-- rooting back to [Nicolaus (Mikołaj) Kopernik](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=126177)-->
+
+<!-- Burcu Kulahcioglu Ozkan -> Serdar Tasiran -> Robert King Brayton -> Norman Levinson -> Norbert Wiener -> Karl Schmidt -> Paul Gerhard Natorp -> Ernst Laas -> Friedrich Adolf Trendelenburg -> Georg Ludwig König -> Christian Gottlob Heyne
+ -> Johann August Bach -> Christian Wilhelm Küstner -> Johann August Ernesti
+-> Johann Matthias Gesner -> Johann Franz Buddeus -> Michael d. J. Walther ->
+Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
+ -> Moritz Valentin Steinmetz -> Georg Joachim von Leuchen Rheticus -> Nicolaus (Mikołaj Kopernik) Copernicus -->
+
 ## News: 
 
 <!--<span style="color:#000080">**Hiring a PHD student (apply until October 16th). More information on the [application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14179).**</span> -->
 
-* Great news! Our paper ["**Randomized Testing of Byzantine Fault Tolerant Algorithms**"](https://dl.acm.org/doi/abs/10.1145/3586053) has received <span style="color:#000080">"**Distinguished paper award**"</span> at [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](files/oopsla23-byzzfuzz.pdf)
-
 * Looking forward to give a keynote talk at **[SEFM'23 - The 21st International Conference on
 Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**. SEFM'23 will be held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
+ 
+* I attended [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
+](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441) on October 29-November 03, 2023.
+
+* Great news! Our paper ["**Randomized Testing of Byzantine Fault Tolerant Algorithms**"](https://dl.acm.org/doi/abs/10.1145/3586053) has received <span style="color:#000080">"**Distinguished paper award**"</span> at [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](files/oopsla23-byzzfuzz.pdf)
+
 
 * I'm coorganizing the **[ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium)** together with Alessandra Gorla. More information will be available soon!
 
-<!-- * I'll attend [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
-](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441) on October 29-November 03, 2023. -->
 
 * Happy to share that I’ve received <span style="color:#000080">**"Stellar Academic Research Grant"**</span>  for my research proposal on "Feedback-guided fault injection testing of blockchain systems". Thanks to Stellar Development Foundation for supporting my research!
 

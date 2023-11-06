@@ -21,3 +21,6 @@ My goal is to advance the state of the art of software reliability techniques fo
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+**See more at [Google Scholar](https://scholar.google.com/citations?user=HwPJzFMAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/148/1309.html)**
