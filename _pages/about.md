@@ -11,9 +11,13 @@ redirect_from:
 
 I am an Assistant Professor and Delft Technology Fellow in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at the Delft University of Technology (TU Delft). Before that, I was a postdoc researcher at the Max Planck Institute for Software Systems (MPI-SWS) in the Rigorous Software Engineering Group, working with [Rupak Majumdar](https://people.mpi-sws.org/~rupak/). I got my PhD from Koç University under the supervision of [Serdar Tasiran](https://www.tasiran.org/).
 
-*See [Academic Geneology](https://www.mathgenealogy.org/id.php?id=239693)*
 
 My research interests focus on model checking, software testing and debugging of concurrent programs and distributed systems. You can visit [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency/) research line for more information.
+
+
+*See [Academic Geneology](https://www.mathgenealogy.org/id.php?id=239693)*
+
+
 
 <!-- ## Announcements: -->
 
