@@ -21,6 +21,7 @@ author_profile: true
 ## Program Committees:
 
 * PC Member, [OOPSLA'24](https://2024.splashcon.org/track/splash-2024-oopsla), the Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
+* PC Member, [FBMC'24](https://fmbc.gitlab.io/), the 5th Int. Workshop on Formal Methods for Blockchains 
 * PC Member, [ASPLOS'24](https://www.asplos-conference.org/asplos2024/), the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 * PC Member, [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), the 25th Int. Conf. on Verification, Model Checking, and Abstract Interpretation
 * PC Member, [SEFM'23](https://sefm-conference.github.io/2023/), the 21st Int. Conf. on Software Engineering and Formal Methods 

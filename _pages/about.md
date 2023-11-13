@@ -35,8 +35,10 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 
 <!--<span style="color:#000080">**Hiring a PHD student (apply until October 16th). More information on the [application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14179).**</span> -->
 
-* Looking forward to give a keynote talk at **[SEFM'23 - The 21st International Conference on
-Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**. SEFM'23 will be held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
+* I serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/) (colocated with ETAPS'24), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
+ 
+* I gave a keynote talk at **[SEFM'23 - The 21st International Conference on
+Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**, held in 8-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
  
 * I attended [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
 ](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441) on October 29-November 03, 2023.
@@ -51,7 +53,6 @@ Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/
 
 * It was great to give a tutorial at the [First Summer School on Distributed and Replicated Environments (DARE'23)](https://soft.vub.ac.be/dare23/) (11-15 September), and [Second Summer School on Security Testing and Verification](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2023) (11-13 September), held in Brussels, Belgium.
 
-* I serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
 
 * Excited to share that I’ve received an <span style="color:#000080">**"Amazon Research Award"**</span>  for my proposal "Coverage-directed randomized testing of distributed systems". More about the program on the [Amazon Science website](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced).
 
