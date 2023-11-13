@@ -26,7 +26,7 @@ author_profile: true
 
 ## Graduated Students
 
-**Graduated MSc Students:**
+**Graduated MSc Students**
 
 - Martijn van Meerten, MSc, 2022 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854), [paper](https://ieeexplore.ieee.org/document/10172900)) 
 - Mingyu Gao, MSc, 2022 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129), [paper](https://burcuku.github.io/home/files/asplos23-pctwm.pdf))
@@ -36,12 +36,12 @@ author_profile: true
 - Yanzhuo Zhou, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3Add3c4287-ac18-4e9e-852d-24c3bf584dc7?collection=education))
 - Wouter van Lil, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid:68eef74c-7a32-4e43-8d41-778d7ea575c2?collection=education))
 
-**Graduated Honours Programme Students:**
+**Graduated Honours Programme Students**
 
 - Levin Winter, BSc, 2023 ([paper](https://dl.acm.org/doi/10.1145/3586053), [source code contribution](https://github.com/XRPLF/rippled/pull/4424))
 - Florena Buse, BSc, 2023 ([paper](https://dl.acm.org/doi/10.1145/3586053))
 
-**Graduated BSc Project Students:**
+**Graduated BSc Project Students**
 
 - Wenkai Li, BSc, 2023 ([paper](https://repository.tudelft.nl/islandora/object/uuid:87fba492-2f3f-4ea4-8e39-b1cf51d36446/datastream/OBJ/download))  
 - Martin Petrov, BSc, 2023 ([paper](https://repository.tudelft.nl/islandora/object/uuid:477365ad-324e-4027-bd3d-18dcc6cf8b20/datastream/OBJ/download)) 
@@ -55,12 +55,12 @@ author_profile: true
 
 ## Examiner in PhD/MSc Committees
 
-**PhD Thesis Reviewer:**
+**PhD Thesis Reviewer**
 
 * 12.2023 Mitchell Olsthoorn, supervised by Annibale Panichella
 
 
-**PhD Go/NoGo Examiner:**
+**PhD Go/NoGo Examiner**
 
 * 03.2023 Lijun Lyu, supervised by Avishek Anand
 * 02.2023 Imara van Dinten, supervised by Andy Zaidman
@@ -70,9 +70,9 @@ author_profile: true
 * 01.2022 Kyriakos Psarakis, supervised by Asterios Katsifodimos
 
 
-**Master Thesis Reviewer:**
+**Master Thesis Reviewer**
 
-* 07.2023 Abel Malan, supervised by Jeremie Decouthant
+* 07.2023 Abel Malan, supervised by Jeremie Decouchant
 * 05.2023 Martijn Comans, supervised by Asterios Katsifodimos
 * 08.2022 Alexander Walker, supervised by Asterios Katsifodimos
 * 08.2022 Mark Provo Kluit, supervised by Lydia Chen
