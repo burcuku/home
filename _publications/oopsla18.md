@@ -9,7 +9,7 @@ paperurl: ''
 citation: 'Burcu Kulahcioglu Ozkan, Rupak Majumdar, Filip Niksic, Mitra Tabaei Befrouei, Georg Weissenbacher. &quot;Randomized Testing of Distributed Systems with Probabilistic Guarantees.&quot;Proceedings of the ACM on Programming Languages (PACMPL), volume 2, number OOPSLA.'
 ---
 
-(Recipient of the Distinguished Paper Award)
+<span style="color:#B42000">(*Recipient of the Distinguished Paper Award*)</span>
 
 [pdf](https://dl.acm.org/doi/10.1145/3276530)
 [talk](https://www.youtube.com/watch?v=sF1fcpn4Z48)

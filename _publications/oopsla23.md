@@ -3,13 +3,15 @@ title: "Randomized Testing of Byzantine Fault Tolerant Algorithms"
 collection: publications
 permalink: /publication/oopsla23
 excerpt: ''
-date: 2023-10-22
-venue: 'Proceedings of the ACM on Programming Languages (PACMPL), volume 7, OOPSLA(1) (to appear)'
+date: 2023-10-25
+venue: 'Proceedings of the ACM on Programming Languages (PACMPL), volume 7, OOPSLA(1)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3586053'
+notes: 'Distinguished paper'
 citation: 'Levin N. Winter, Florena Buse, Daan de Graaf, Klaus von Gleissenthall, and Burcu Kulahcioglu Ozkan. 2023.Randomized Testing of Byzantine Fault Tolerant Algorithms. Proc. ACM Program. Lang. 7, OOPSLA1, Article 101, pp 757–788.'
 ---
 
-[pdf](https://dl.acm.org/doi/10.1145/3586053)
+<span style="color:#B42000">(*Recipient of the Distinguished Paper Award*)</span>
+[**(pdf)**](https://dl.acm.org/doi/10.1145/3586053)
 
 **Abstract.** Byzantine fault-tolerant algorithms promise agreement on a correct value, even if a subset of processes can deviate from the algorithm arbitrarily. While these algorithms provide strong guarantees in theory, in practice, protocol bugs and implementation mistakes may still cause them to go wrong. This paper introduces ByzzFuzz, a simple yet effective method for automatically finding errors in implementations of Byzantine fault-tolerant algorithms through randomized testing. ByzzFuzz detects fault-tolerance bugs by injecting randomly generated network and process faults into their executions. To navigate the space of possible process faults, ByzzFuzz introduces small-scope message mutations which mutate the contents of the protocol messages by applying small changes to the original message either in value (e.g., by incrementing the round number) or in time (e.g., by repeating a proposal value from a previous message). We find that small-scope mutations, combined with insights from the testing and fuzzing literature, are effective at uncovering protocol logic and implementation bugs in real-world fault-tolerant systems.
 

@@ -38,7 +38,7 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 * I serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/) (colocated with ETAPS'24), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
  
 * I gave a keynote talk at **[SEFM'23 - The 21st International Conference on
-Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**, held in 8-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
+Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**, held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
  
 * I attended [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
 ](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441) on October 29-November 03, 2023.
