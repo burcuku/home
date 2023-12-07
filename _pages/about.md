@@ -35,7 +35,7 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 
 <!--<span style="color:#000080">**Hiring a PHD student (apply until October 16th). More information on the [application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14179).**</span> -->
 
-* The deadline for the [ACM Student Research Competition at <Programming> 2024](https://2024.programming-conference.org/track/programming-2024-SRC) that I co-orgamize with Philipp Haller is extended to December 15th!
+* The deadline for the [ACM Student Research Competition at Programming 2024](https://2024.programming-conference.org/track/programming-2024-SRC) that I co-orgamize with Philipp Haller is extended to December 15th!
 
 * I serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/) (colocated with ETAPS'24), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
  
