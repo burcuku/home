@@ -10,7 +10,7 @@ author_profile: true
 ### PhD Students
 
 - Ege Berkay Gülcan
-- In progress :) 
+- Joao Neto (starts in February 2024)
 
 ### MSc Students
 
