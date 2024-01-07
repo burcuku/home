@@ -42,16 +42,14 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 * I gave a talk at "Randomized Testing of Byzantine Fault Tolerant Algorithms", presenting our OOPSLA'23 paper in the internal seminar of [Aptos Labs](https://aptoslabs.com/). 
 
 * I gave a keynote talk at **[SEFM'23 - The 21st International Conference on
-Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**, held in 6-10 November 2023, organised by Eindhoven University of Technology, The Netherlands. 
+Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**, held in 6-10 November 2023, organized by Eindhoven University of Technology, The Netherlands. 
  
 * I attended [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
 ](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441) on October 29-November 03, 2023.
 
 * Great news! Our paper ["**Randomized Testing of Byzantine Fault Tolerant Algorithms**"](https://dl.acm.org/doi/abs/10.1145/3586053) has received <span style="color:#000080">"**Distinguished paper award**"</span> at [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](files/oopsla23-byzzfuzz.pdf)
 
-
-* I'm coorganizing the **[ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium)** together with Alessandra Gorla. More information will be available soon!
-
+* We're coorganizing the **[ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium)** with Alessandra Gorla. More information will be available soon!
 
 * Happy to share that I’ve received <span style="color:#000080">**"Stellar Academic Research Grant"**</span>  for my research proposal on "Feedback-guided fault injection testing of blockchain systems". Thanks to Stellar Development Foundation for supporting my research!
 
