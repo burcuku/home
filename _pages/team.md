@@ -53,6 +53,8 @@ author_profile: true
 - Lars van Koetsveld van Ankeren, BSc, 2021 ([paper](https://repository.tudelft.nl/islandora/object/uuid:6aac4b66-c168-404d-bcc6-b8ea503585a9/datastream/OBJ/download))
 
 
+<!--
+
 ## Examiner in PhD/MSc Committees
 
 **PhD Thesis Reviewer**
@@ -82,3 +84,5 @@ author_profile: true
 * 05.2021 Martijn de Heus, supervised by Asterios Katsifodimos
 * 05.2021 Bernard Bot, supervised by Casper Poulsen
 * 12.2020 Jens de Waard, supervised by Robbert Krebbers
+
+-->
