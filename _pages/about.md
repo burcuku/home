@@ -15,10 +15,6 @@ I am an Assistant Professor and Delft Technology Fellow in the [Software Enginee
 My research interests focus on model checking, software testing and debugging of concurrent programs and distributed systems. You can visit [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency/) research line for more information.
 
 
-*See [Academic Geneology](https://www.mathgenealogy.org/id.php?id=239693)*
-
-
-
 <!-- ## Announcements: -->
 
 
@@ -145,3 +141,6 @@ September'20.
 
 </details>
 -->
+
+
+#### [Academic Geneology](https://www.mathgenealogy.org/id.php?id=239693)
