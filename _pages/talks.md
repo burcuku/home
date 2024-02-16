@@ -17,7 +17,7 @@ author_profile: true
 
 ### Invited Tutorials, Seminars, Symposium and Research Talks:
 
-* [Amazon Research](https://www.amazon.science/research-areas/automated-reasoning), Automated Reasoning Internal Seminar, 7 February 2024. Online.
+<!-- * [Amazon Research](https://www.amazon.science/research-areas/automated-reasoning), Automated Reasoning Internal Seminar, 7 February 2024. Online. -->
 
 * [AptosLabs](https://aptoslabs.com/) Internal Seminar, 1 December 2023. Online.
 

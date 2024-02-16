@@ -48,7 +48,8 @@ author_profile: true
 * Guest editor, **Formal Methods and System Design (FMSD)** Special Issue for Computer Aided Verification (CAV'23), guest editing with Sebastian Junges, with editors Akash Lal and Constantin Enea.
 
 
-## Reviewer for manuscripts:
+## Reviewer for journals/manuscripts:
+* The Art, Science, and Engineering of Programming, Volume 9, 2024
 * Transactions on Software Engineering and Methodology (TOSEM), 2022
 * Journal of Systems & Software, Elsevier, 2022
 * Science of Computer Programming, Elsevier, 2021
