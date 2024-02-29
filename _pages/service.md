@@ -9,7 +9,7 @@ author_profile: true
 
 ## Organization:
 
-* Co-organizer, [ISSTA Doctoral Symposium](https://2024.issta.org/track/issta-2024-doctoral-symposium) at [ISSTA 2024](https://2024.issta.org/).
+* Co-organizer, [ISSTA/ECOOP 2024 Doctoral Symposium](https://2024.issta.org/track/issta-2024-doctoral-symposium).
 *  Co-chair, [ACM Student Research Competition'24](https://2024.programming-conference.org/track/programming-2024-SRC) at [Programming Conference 2024](https://2024.programming-conference.org/).
 * Co-chair, [Erlang'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), the 22nd Edition of the ACM SIGPLAN Erlang Workshop, a co-located event of [ICFP 2023](https://icfp23.sigplan.org/).
 * Co-organizer, [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/) co-located with [CAV 2023](http://www.i-cav.org/2023/).
@@ -20,7 +20,9 @@ author_profile: true
 
 ## Program Committees:
 
+* PC Member, SEFM'24,  the 22nd Int. Conf. on Software Engineering and Formal Methods 
 * PC Member, [OOPSLA'24](https://2024.splashcon.org/track/splash-2024-oopsla), the Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
+* PC Member, [NETYS'24](https://netys.net/), the 12th International Conference on Networked Systems
 * PC Member, [FBMC'24](https://fmbc.gitlab.io/), the 5th Int. Workshop on Formal Methods for Blockchains 
 * PC Member, [ASPLOS'24](https://www.asplos-conference.org/asplos2024/), the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 * PC Member, [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), the 25th Int. Conf. on Verification, Model Checking, and Abstract Interpretation

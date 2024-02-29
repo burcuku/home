@@ -31,16 +31,18 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 
 <!--<span style="color:#000080">**Hiring a PHD student (apply until October 16th). More information on the [application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14179).**</span> -->
 
-* The deadline for the **[ACM Student Research Competition at Programming 2024](https://2024.programming-conference.org/track/programming-2024-SRC)** that we co-organize with Philipp Haller is extended to January 25th!
+* We are looking forward to your submissions to the **[ISSTA/ECOOP'24 Doctoral Symposium](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)**. The ECOOP/ISSTA 2024 Doctoral Symposium will bring together doctoral students working in the area of software testing and analysis and give them the opportunity to present and discuss their research goals, methods, and preliminary results in a constructive and international atmosphere. The submission deadline is **June 14th**.
 
-* I serve in the PCs of [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/) (colocated with ETAPS'24), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024) and [ASPLOS'24](https://asplos-conference.org/).
+* I serve in the PCs of [ASPLOS'24](https://asplos-conference.org/), [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/) (colocated with ETAPS'24), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), [NETYS'24](https://netys.net/) and SEFM'24.
+
+* The deadline for the **[ACM Student Research Competition at Programming 2024](https://2024.programming-conference.org/track/programming-2024-SRC)** that we co-organize with Philipp Haller is extended to January 25th!
  
 * I gave a talk at "Randomized Testing of Byzantine Fault Tolerant Algorithms", presenting our OOPSLA'23 paper in the internal seminar of [Aptos Labs](https://aptoslabs.com/). 
 
 * I gave a keynote talk at **[SEFM'23 - The 21st International Conference on
 Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**, held in 6-10 November 2023, organized by Eindhoven University of Technology, The Netherlands. 
  
-* I attended [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
+* Attended [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
 ](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441) on October 29-November 03, 2023.
 
 * Great news! Our paper ["**Randomized Testing of Byzantine Fault Tolerant Algorithms**"](https://dl.acm.org/doi/abs/10.1145/3586053) has received <span style="color:#000080">"**Distinguished paper award**"</span> at [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](files/oopsla23-byzzfuzz.pdf)

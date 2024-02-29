@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-### Keynotes 
+### Conference Keynotes: 
 
 * [SEFM’23 - The 21st International Conference on Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)   
   10 November 2023, Eindhoven University of Technology, The Netherlands.    
@@ -17,10 +17,14 @@ author_profile: true
 
 ### Invited Tutorials, Seminars, Symposium and Research Talks:
 
-<!-- * [Amazon Research](https://www.amazon.science/research-areas/automated-reasoning), Automated Reasoning Internal Seminar, 7 February 2024. Online. -->
+* [Amazon Research](https://www.amazon.science/research-areas/automated-reasoning), Automated Reasoning Group, Internal Seminar, 21 February 2024. Online. 
 
-* [AptosLabs](https://aptoslabs.com/) Internal Seminar, 1 December 2023. Online.
+* [University of Antwerp, AnSyMo Lab](https://www.uantwerpen.be/en/research-groups/ansymo/), , 2 February 2024. Antwerp, Belgium.  
+*Keynote talk at the Advisory Meeting for "Towards Zero-Touch Testing"*
 
+* [Vrije Universiteit Brussel, SOFT Lab](https://soft.vub.ac.be/soft/), The Software Languages Seminar, 25 January 2024. Brussels, Belgium. 
+
+* [AptosLabs](https://aptoslabs.com/), Internal Seminar, 1 December 2023. Online.
 
 * [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Systems.](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23441)   
 	29 October - 3 November 2023, Schloss Dagstuhl, Wadern, Germany.
