@@ -19,8 +19,9 @@ author_profile: true
 
 
 ## Program Committees:
-
-* PC Member, SEFM'24,  the 22nd Int. Conf. on Software Engineering and Formal Methods 
+* PC Member, [ESOP'25](https://etaps.org/2025/conferences/esop/),  the 34rd European Symposium on Programming
+* PC Member, [\<Programming'25\>](https://etaps.org/2025/conferences/esop/), the International Conference on the Art, Science, and Engineering of Programming
+* PC Member, [SEFM'24](https://sefm-conference.github.io/2024/),  the 22nd Int. Conf. on Software Engineering and Formal Methods 
 * PC Member, [OOPSLA'24](https://2024.splashcon.org/track/splash-2024-oopsla), the Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
 * PC Member, [NETYS'24](https://netys.net/), the 12th International Conference on Networked Systems
 * PC Member, [FBMC'24](https://fmbc.gitlab.io/), the 5th Int. Workshop on Formal Methods for Blockchains 

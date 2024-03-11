@@ -33,7 +33,7 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 
 * We are looking forward to your submissions to the **[ISSTA/ECOOP'24 Doctoral Symposium](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)**. The ECOOP/ISSTA 2024 Doctoral Symposium will bring together doctoral students working in the area of software testing and analysis and give them the opportunity to present and discuss their research goals, methods, and preliminary results in a constructive and international atmosphere. The submission deadline is **June 14th**.
 
-* I serve in the PCs of [ASPLOS'24](https://asplos-conference.org/), [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/) (colocated with ETAPS'24), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), [NETYS'24](https://netys.net/) and SEFM'24.
+* I serve in the PCs of [ASPLOS'24](https://asplos-conference.org/), [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/) (colocated with ETAPS'24), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), [NETYS'24](https://netys.net/) and [SEFM'24](https://sefm-conference.github.io/2024/).
 
 * The deadline for the **[ACM Student Research Competition at Programming 2024](https://2024.programming-conference.org/track/programming-2024-SRC)** that we co-organize with Philipp Haller is extended to January 25th!
  

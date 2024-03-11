@@ -19,7 +19,7 @@ author_profile: true
 
 * [Amazon Research](https://www.amazon.science/research-areas/automated-reasoning), Automated Reasoning Group, Internal Seminar, 21 February 2024. Online. 
 
-* [University of Antwerp, AnSyMo Lab](https://www.uantwerpen.be/en/research-groups/ansymo/), , 2 February 2024. Antwerp, Belgium.  
+* [University of Antwerp, AnSyMo Lab](https://www.uantwerpen.be/en/research-groups/ansymo/), 2 February 2024. Antwerp, Belgium.  
 *Keynote talk at the Advisory Meeting for "Towards Zero-Touch Testing"*
 
 * [Vrije Universiteit Brussel, SOFT Lab](https://soft.vub.ac.be/soft/), The Software Languages Seminar, 25 January 2024. Brussels, Belgium. 
