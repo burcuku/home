@@ -19,10 +19,12 @@ author_profile: true
 
 
 ## Program Committees:
-* PC Member, [ESOP'25](https://etaps.org/2025/conferences/esop/),  the 34rd European Symposium on Programming
+* PC Member, [ICST'25](https://conf.researchr.org/home/icst-2025), the 18th IEEE International Conference on Software Testing, Verification and Validation
+* PC Member, [ESOP'25](https://etaps.org/2025/conferences/esop/), the 34rd European Symposium on Programming
 * PC Member, [\<Programming'25\>](https://etaps.org/2025/conferences/esop/), the International Conference on the Art, Science, and Engineering of Programming
-* PC Member, [SEFM'24](https://sefm-conference.github.io/2024/),  the 22nd Int. Conf. on Software Engineering and Formal Methods 
+* PC Member, [SEFM'24](https://sefm-conference.github.io/2024/), the 22nd Int. Conf. on Software Engineering and Formal Methods 
 * PC Member, [OOPSLA'24](https://2024.splashcon.org/track/splash-2024-oopsla), the Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
+* PC Member, [VSTTE'24](https://www.soundandcomplete.org/vstte2024.html), the 15th Int. Conf. on Verified Software: Theories, Tools, and Experiments
 * PC Member, [NETYS'24](https://netys.net/), the 12th International Conference on Networked Systems
 * PC Member, [FBMC'24](https://fmbc.gitlab.io/), the 5th Int. Workshop on Formal Methods for Blockchains 
 * PC Member, [ASPLOS'24](https://www.asplos-conference.org/asplos2024/), the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems

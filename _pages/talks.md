@@ -17,6 +17,9 @@ author_profile: true
 
 ### Invited Tutorials, Seminars, Symposium and Research Talks:
 
+* [VDS'24 colocated with NETYS'24](https://netys.net/), Workshop on Verification of Distributed Systems, 27 May 2024. Rabat, Morocco. 
+
+
 * [Amazon Research](https://www.amazon.science/research-areas/automated-reasoning), Automated Reasoning Group, Internal Seminar, 21 February 2024. Online. 
 
 * [University of Antwerp, AnSyMo Lab](https://www.uantwerpen.be/en/research-groups/ansymo/), 2 February 2024. Antwerp, Belgium.  

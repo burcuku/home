@@ -31,15 +31,22 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 
 <!--<span style="color:#000080">**Hiring a PHD student (apply until October 16th). More information on the [application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14179).**</span> -->
 
-* We are looking forward to your submissions to the **[ISSTA/ECOOP'24 Doctoral Symposium](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)**. The ECOOP/ISSTA 2024 Doctoral Symposium will bring together doctoral students working in the area of software testing and analysis and give them the opportunity to present and discuss their research goals, methods, and preliminary results in a constructive and international atmosphere. The submission deadline is **June 14th**.
+* We are hiring a PhD student to work on fuzzing blockchain systems and applications. 🚀 
+The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative](https://ripple.com/impact/ubri/). 
 
-* I serve in the PCs of [ASPLOS'24](https://asplos-conference.org/), [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/) (colocated with ETAPS'24), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), [NETYS'24](https://netys.net/) and [SEFM'24](https://sefm-conference.github.io/2024/).
+    **[Online application](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=18006&jobTitle=PhD%20Position%20Testing%20Blockchain%20Applications%20%20) (deadline: July 21, 2024)**
+
+* We are looking forward to your submissions to the **[ISSTA/ECOOP'24 Doctoral Symposium](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)**. The ECOOP/ISSTA 2024 Doctoral Symposium will bring together doctoral students working in the area of software testing and analysis and give them the opportunity to present and discuss their research goals, methods, and preliminary results in a constructive and international atmosphere.
+
+<!--* [2025] I serve in the PCs of [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), and [Programming'25](https://fmbc.gitlab.io/).-->
+
+* Serve(d) in the PCs of [ASPLOS'24](https://asplos-conference.org/), [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), [NETYS'24](https://netys.net/), [SEFM'24](https://sefm-conference.github.io/2024/) and [VSTTE'24](https://www.soundandcomplete.org/vstte2024.html).
 
 * The deadline for the **[ACM Student Research Competition at Programming 2024](https://2024.programming-conference.org/track/programming-2024-SRC)** that we co-organize with Philipp Haller is extended to January 25th!
  
-* I gave a talk at "Randomized Testing of Byzantine Fault Tolerant Algorithms", presenting our OOPSLA'23 paper in the internal seminar of [Aptos Labs](https://aptoslabs.com/). 
+* Gave a talk at "Randomized Testing of Byzantine Fault Tolerant Algorithms", presenting our OOPSLA'23 paper in the internal seminar of [Aptos Labs](https://aptoslabs.com/). 
 
-* I gave a keynote talk at **[SEFM'23 - The 21st International Conference on
+* Gave a keynote talk at **[SEFM'23 - The 21st International Conference on
 Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**, held in 6-10 November 2023, organized by Eindhoven University of Technology, The Netherlands. 
  
 * Attended [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems
@@ -47,7 +54,7 @@ Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/
 
 * Great news! Our paper ["**Randomized Testing of Byzantine Fault Tolerant Algorithms**"](https://dl.acm.org/doi/abs/10.1145/3586053) has received <span style="color:#000080">"**Distinguished paper award**"</span> at [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](files/oopsla23-byzzfuzz.pdf)
 
-* We're coorganizing the **[ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium)** with Alessandra Gorla. More information will be available soon!
+<!--* We're coorganizing the **[ISSTA'24 Doctoral Symposium](https://2024.issta.org/committee/issta-2024-doctoral-symposium-doctoral-symposium)** with Alessandra Gorla. More information will be available soon!-->
 
 * Happy to share that I’ve received <span style="color:#000080">**"Stellar Academic Research Grant"**</span>  for my research proposal on "Feedback-guided fault injection testing of blockchain systems". Thanks to Stellar Development Foundation for supporting my research!
 
@@ -65,9 +72,13 @@ Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/
 * The deadline for scholarship applications for [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/), we co-organize together with Ankush Desai, Eric Koskinen, Marijana Lazic, and Matteo Sammartino, is extended to May 5th! VMW'23 will be co-located with the Int. Conf. on [Computer Aided Verification (CAV)'23](http://www.i-cav.org/2023/) in Paris, France, in July 17-22, 2023.
 
 
+* [2023] Served in the PCs of [VMCAI'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=167543&copyownerid=176516), [MET'23](http://metwiki.net/MET23/index.html), [CAV'23](http://www.i-cav.org/2023/), [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla), and [VSTTE'23](http://www.wikicfp.com/cfp/program?id=2979&f=Verified).
+ 
   
 * [Apr'23] The call for papers for the [ACM SIGPLAN Erlang Workshop'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), we co-chair together with Kiko Fernandez-Reyes, is open. Submissions related to Erlang, Elixir, Lisp Flavored Erlang, and topics in functional, concurrent, and distributed programming are welcome and encouraged!  
 
+
+ 
 <!-- * Here's a [link to the ligthning talk](https://www.youtube.com/watch?v=jQ-j783ALMY) for our [ASPLOS'23](https://asplos-conference.org/) paper ["Probabilistic Concurrency Testing for Weak Memory Programs"](https://dl.acm.org/doi/10.1145/3575693.3575729). More at the conference talk!  -->
 
 
@@ -79,9 +90,6 @@ Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/
 * [March'23] Attended the [Dagstuhl Seminar 23112: Unifying Formal Methods for Trustworthy Distributed Systems](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23112) on March 12-15, 2023.
 
 * [Feb'23] Our paper [Randomized Testing of Byzantine Fault Tolerant Algorithms](https://2023.splashcon.org/details/splash-2023-oopsla/27/Randomized-Testing-of-Byzantine-Fault-Tolerant-Algorithmsh) with Levin N. Winter, Florena Buse, Daan de Graaf, and Klaus von Gleissenthall has been accepted to [OOPSLA'23](ttps://2023.splashcon.org/track/splash-2023-oopsla)! [**(pdf)**](https://dl.acm.org/doi/10.1145/3586053)  
-
-
-* I serve in the PCs of [VMCAI'23](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=167543&copyownerid=176516), [MET'23](http://metwiki.net/MET23/index.html), [CAV'23](http://www.i-cav.org/2023/), [OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla), and [VSTTE'23](http://www.wikicfp.com/cfp/program?id=2979&f=Verified).
 
 * [Jan'23] Our paper "[Probabilistic Concurrency Testing for Weak Memory Programs](https://dl.acm.org/doi/10.1145/3575693.3575729)" with Mingyu Gao and Soham Chakraborty appears at [ASPLOS'23](https://asplos-conference.org/)! [**(pdf)**](files/asplos23-pctwm.pdf) 
 

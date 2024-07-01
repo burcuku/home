@@ -10,7 +10,8 @@ author_profile: true
 ### PhD Students
 
 - Ege Berkay Gülcan
-- Joao Neto 
+- João Neto 
+- Hiring :)
 
 ### MSc Students
 
@@ -19,10 +20,10 @@ author_profile: true
 - Melchior Oudemans 
 - Junbo Xiong 
 - Luan Li
+- Giovanni Fincato de Loureiro
+- Artjom Pugatšov
 
-### BSc Research Students
-
-- Santiago de Heredia
+<!-- ### BSc Research Students -->
 
 ## Graduated Students
 
