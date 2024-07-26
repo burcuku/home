@@ -39,8 +39,7 @@ The PhD project will focus on the XRP Ledger framework as part of [Ripple's Univ
 	
 	- Congrats to [Ege Berkay Gulcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109) and [João Neto](https://joao.neto.pt/) for their paper **"Generalized Concurrency Testing Tool"** in ISSTA/ECOOP tool track! Check out **[DSTest](https://github.com/egeberkaygulcan/dstest)**!
 	- Congrats to [Bob Brockbernd](https://nl.linkedin.com/in/bob-brockbernd-6853b61b7) for his paper **"[Understanding Concurrency Bugs in Real-World Programs with Kotlin Coroutines](https://2024.ecoop.org/details/ecoop-2024-papers/47/Understanding-Concurrency-Bugs-in-Real-World-Programs-with-Kotlin-Coroutines)"** together with [Nikita Koval](https://nikitakoval.org/) and [Arie van Deursen](https://avandeursen.com/about/) in ECOOP!
- - We also invite the students in the research area to attend the [Doctoral Symposium at ISSTA/ECOOP'24](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)! 
-
+	- We also invite the students in the research area to attend the [Doctoral Symposium at ISSTA/ECOOP'24](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)! 
  
 
 * I'll give a talk on **"Testing Blockchain Implementations"** at ["UBRI Connect 2024"](https://www.ubriconnect.com/) in September in Zurich. UBRI Connect brings scholars, researchers, and thought leaders in the UBRI network to showcase blockchain initiatives, share knowledge, and inspire future research.
