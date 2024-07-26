@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-09-18
 venue: 'The 33th ACM SIGSOFT International Symposium on Software Testing and Analysis, (ISSTA) 2024 (to appear)'
 paperurl: ''
-citation: Ege Berkay Gulcan, João Neto, Burcu Kulahcioglu Ozkan. &quot;Understanding Concurrency Bugs in Real-World Programs with Kotlin Coroutines.&quot; Proceedings of the 33th ACM SIGSOFT International Symposium on Software Testing and Analysis, {ISSTA} 2024 (to appear)'
+citation: Ege Berkay Gulcan, João Neto, Burcu Kulahcioglu Ozkan. &quot;Generalized Concurrency Testing Tool for Distributed Systems.&quot; Proceedings of the 33th ACM SIGSOFT International Symposium on Software Testing and Analysis, (ISSTA) 2024 (to appear)'
 ---
 
 **Abstract.** 
