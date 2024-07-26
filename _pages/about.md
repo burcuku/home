@@ -31,22 +31,25 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 
 <!--<span style="color:#000080">**Hiring a PHD student (apply until October 16th). More information on the [application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14179).**</span> -->
 
-* We are hiring a PhD student to work on fuzzing blockchain systems and applications. 🚀 
+<!-- We are hiring a PhD student to work on fuzzing blockchain systems and applications. 🚀 
 The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative](https://ripple.com/impact/ubri/). 
+**[Online application](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=18006&jobTitle=PhD%20Position%20Testing%20Blockchain%20Applications%20%20) (deadline: July 21, 2024)** -->
 
-    **[Online application](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=18006&jobTitle=PhD%20Position%20Testing%20Blockchain%20Applications%20%20) (deadline: July 21, 2024)**
+* I'll give a talk on **"Testing Blockchain Implementations"** at ["UBRI Connect 2024"](https://www.ubriconnect.com/) in September in Zurich. UBRI Connect brings scholars, researchers, and thought leaders in the UBRI network to showcase blockchain initiatives, share knowledge, and inspire future research.
 
-* We are looking forward to your submissions to the **[ISSTA/ECOOP'24 Doctoral Symposium](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)**. The ECOOP/ISSTA 2024 Doctoral Symposium will bring together doctoral students working in the area of software testing and analysis and give them the opportunity to present and discuss their research goals, methods, and preliminary results in a constructive and international atmosphere.
+* We are looking forward to the **[ISSTA/ECOOP'24 Doctoral Symposium](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)** in Vienna! The ECOOP/ISSTA 2024 Doctoral Symposium will bring together doctoral students working in the area of software testing and analysis and give them the opportunity to present and discuss their research goals, methods, and preliminary results in a constructive and international atmosphere.
 
 <!--* [2025] I serve in the PCs of [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), and [Programming'25](https://fmbc.gitlab.io/).-->
 
 * Serve(d) in the PCs of [ASPLOS'24](https://asplos-conference.org/), [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), [NETYS'24](https://netys.net/), [SEFM'24](https://sefm-conference.github.io/2024/) and [VSTTE'24](https://www.soundandcomplete.org/vstte2024.html).
 
-* The deadline for the **[ACM Student Research Competition at Programming 2024](https://2024.programming-conference.org/track/programming-2024-SRC)** that we co-organize with Philipp Haller is extended to January 25th!
- 
-* Gave a talk at "Randomized Testing of Byzantine Fault Tolerant Algorithms", presenting our OOPSLA'23 paper in the internal seminar of [Aptos Labs](https://aptoslabs.com/). 
+* Gave an invited talk at "VDS - Verification of Distributed Systems" workshop colocated with [NETYS'24](https://netys.net/call-for-papers/). 
 
-* Gave a keynote talk at **[SEFM'23 - The 21st International Conference on
+* Organized **[ACM Student Research Competition](https://2024.programming-conference.org/track/programming-2024-SRC)** together with Philipp Haller at Programming 2024.
+ 
+* Gave an invited talk at "Randomized Testing of Byzantine Fault Tolerant Algorithms", presenting our OOPSLA'23 paper in the internal seminar of [Aptos Labs](https://aptoslabs.com/). 
+
+* Gave an invited keynote talk at **[SEFM'23 - The 21st International Conference on
 Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)**, held in 6-10 November 2023, organized by Eindhoven University of Technology, The Netherlands. 
  
 * Attended [Dagstuhl Seminar 23441: Ensuring the Reliability and Robustness of Database Management Systems

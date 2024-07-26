@@ -9,19 +9,24 @@ author_profile: true
 
 ### PhD Students
 
-- Ege Berkay Gülcan
-- João Neto 
+- **[Ege Berkay Gülcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109)**
+- **[João Neto](https://joao.neto.pt/)**
 - Hiring :)
 
 ### MSc Students
 
 - Mantas Zdanavičius
 - Bob Brockbernd 
-- Melchior Oudemans 
 - Junbo Xiong 
 - Luan Li
 - Giovanni Fincato de Loureiro
 - Artjom Pugatšov
+
+### BSc Research Interns 
+
+- Idil Kara
+- Kemal Murluergil
+
 
 <!-- ### BSc Research Students -->
 
@@ -29,13 +34,16 @@ author_profile: true
 
 **Graduated MSc Students**
 
-- Martijn van Meerten, MSc, 2022 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854), [paper](https://ieeexplore.ieee.org/document/10172900)) 
-- Mingyu Gao, MSc, 2022 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129), [paper](https://burcuku.github.io/home/files/asplos23-pctwm.pdf))
-- Nick Dekker, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A748773c5-9651-49db-a694-7c157a8adc62))
-- Jason Qiu, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A40833173-cbe2-497f-8a44-6ea35e65e046))
-- Marcus Schutte, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A1d6d9c85-6a0e-4208-9605-09f5d292ac2a?collection=education))
-- Yanzhuo Zhou, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3Add3c4287-ac18-4e9e-852d-24c3bf584dc7?collection=education))
+- Melchior Oudemans, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:9b6843bb-5d40-4a8c-8613-e50e81cde30f))
+- Yanzhuo Zhou, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3Add3c4287-ac18-4e9e-852d-24c3bf584dc7?collection=education), [paper](https://www.computer.org/csdl/proceedings-article/prdc/2023/587600a168/1T8QFo3Dvu8))
 - Wouter van Lil, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid:68eef74c-7a32-4e43-8d41-778d7ea575c2?collection=education))
+- Marcus Schutte, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A1d6d9c85-6a0e-4208-9605-09f5d292ac2a?collection=education))
+- Jason Qiu, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A40833173-cbe2-497f-8a44-6ea35e65e046), [paper](https://www.computer.org/csdl/proceedings-article/icse-companion/2024/050200a320/1XVHJoOMHZK))
+- Nick Dekker, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A748773c5-9651-49db-a694-7c157a8adc62))
+- Mingyu Gao, MSc, 2022 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129), [paper](https://burcuku.github.io/home/files/asplos23-pctwm.pdf))
+- Martijn van Meerten, MSc, 2022 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854), [paper](https://ieeexplore.ieee.org/document/10172900)) 
+
+
 
 **Graduated Honours Programme Students**
 
