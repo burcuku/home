@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icse24
 excerpt: ''
 date: 2024-05-23
-venue: 'ICSE-Companion'24: Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings'
+venue: 'The 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE): Companion Proceedings'
 paperurl: ''
 citation: 'Stefania Dumbrava, Zhao Jin, Burcu Kulahcioglu Ozkan, Jingxuan Qiu. &quot;GRAIL: Checking Transaction Isolation Violations with Graph Queries.&quot; Proceedings of the 2024 {IEEE/ACM} 46th International Conference on Software Engineering: Companion Proceedings, {ICSE} Companion 2024, Lisbon, Portugal, April 14-20, 2024'
 ---

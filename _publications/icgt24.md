@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icgt24
 excerpt: ''
 date: 2024-07-22
-venue: 'ICGT'24: The 17th International Conference on Graph Transformation'
+venue: 'The 17th International Conference on Graph Transformation (ICGT) 2024'
 paperurl: ''
 citation: 'Stefania Dumbrava, Zhao Jin, Burcu Kulahcioglu Ozkan, Jingxuan Qiu. &quot;Checking Transaction Isolation Violations with Graph Queries.&quot; Proceedings of the 17th International Conference on Graph Transformation, {ICGT} 2024, Held as Part of {STAF} 2024, Enschede, The Netherlands, July 10-11, 2024,'
 ---
