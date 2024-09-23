@@ -42,7 +42,7 @@ The PhD project will focus on the XRP Ledger framework as part of [Ripple's Univ
 	- We also invite the students in the research area to attend the [Doctoral Symposium at ISSTA/ECOOP'24](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)! 
  
 
-* I'll give a talk on **"Testing Blockchain Implementations"** at ["UBRI Connect 2024"](https://www.ubriconnect.com/) in September in Zurich. UBRI Connect brings scholars, researchers, and thought leaders in the UBRI network to showcase blockchain initiatives, share knowledge, and inspire future research.
+* I gave a talk on **"Testing Blockchain Implementations"** at ["UBRI Connect 2024"](https://www.ubriconnect.com/) in September in Zurich. UBRI Connect brings scholars, researchers, and thought leaders in the UBRI network to showcase blockchain initiatives, share knowledge, and inspire future research.
 
 * We are looking forward to the **[ISSTA/ECOOP'24 Doctoral Symposium](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)** in Vienna! The ECOOP/ISSTA 2024 Doctoral Symposium will bring together doctoral students working in the area of software testing and analysis and give them the opportunity to present and discuss their research goals, methods, and preliminary results in a constructive and international atmosphere.
 

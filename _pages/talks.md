@@ -17,8 +17,9 @@ author_profile: true
 
 ### Invited Tutorials, Seminars, Symposium and Research Talks:
 
-* [VDS'24 colocated with NETYS'24](https://netys.net/), Workshop on Verification of Distributed Systems, 27 May 2024. Rabat, Morocco. 
+* [UBRI Connect'24](https://www.ubriconnect.com/), Ripple's University Blockchain Research Initiative, 11 September 2024, in Zurich, Switzerland. 
 
+* [VDS'24 colocated with NETYS'24](https://netys.net/), Workshop on Verification of Distributed Systems, 27 May 2024. Rabat, Morocco. 
 
 * [Amazon Research](https://www.amazon.science/research-areas/automated-reasoning), Automated Reasoning Group, Internal Seminar, 21 February 2024. Online. 
 
