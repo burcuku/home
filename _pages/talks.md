@@ -13,11 +13,12 @@ author_profile: true
 
 * [SEFM’23 - The 21st International Conference on Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)   
   10 November 2023, Eindhoven University of Technology, The Netherlands.    
-  Keynote: ”Randomized Testing of Distributed Systems”
+  **Keynote:** *”Randomized Testing of Distributed Systems”*
 
 ### Invited Tutorials, Seminars, Symposium and Research Talks:
 
-* [UBRI Connect'24](https://www.ubriconnect.com/), Ripple's University Blockchain Research Initiative, 11 September 2024, in Zurich, Switzerland. 
+* [UBRI Connect'24](https://www.ubriconnect.com/), Ripple's University Blockchain Research Initiative, 11 September 2024, in Zurich, Switzerland.    
+*”Testing Blockchain Implementations”*
 
 * [VDS'24 colocated with NETYS'24](https://netys.net/), Workshop on Verification of Distributed Systems, 27 May 2024. Rabat, Morocco. 
 
