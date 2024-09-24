@@ -12,11 +12,11 @@ redirect_from:
 I am an Assistant Professor in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at the Delft University of Technology (TU Delft). Before that, I was a postdoc researcher at the Max Planck Institute for Software Systems (MPI-SWS) in the Rigorous Software Engineering Group, working with [Rupak Majumdar](https://people.mpi-sws.org/~rupak/). I got my PhD from Koç University under the supervision of [Serdar Tasiran](https://www.tasiran.org/).
 
 
-My research interests span model checking, software testing, and debugging with a focus on concurrent programs and distributed systems. 
+My research interests span model checking, software testing, and debugging with a focus on concurrent programs and distributed systems. You can find more in my interview about ["Challenges of Concurrency"](https://ict-research.nl/wordpress/wp-content/uploads/2022/12/IO-magazine-NR4-2022_online.pdf) at the I/O Magazine, ICT Platform Nederland.
 
 At TU Delft, I lead and take supervisory role in several research teams and projects:   
 
-- I lead the [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency/) research line, where my team develops automated software testing and reliability techniques for concurrent and distributed systems. Our research has been funded by personal academic research grants from the [Amazon Research Award](https://www.amazon.science/research-awards/recipients/burcu-kulahcioglu-ozkan) and [Stellar Academic Research Grant](https://research.stellar.org/research-grants).  
+- I lead the [Software Reliability for Concurrent and Distributed Systems](https://se.ewi.tudelft.nl/research-lines/se-for-concurrency/) research line, where my team develops automated software testing and reliability techniques for concurrent and distributed systems. Our research has been funded by personal academic research grants from the [Amazon Research Award](https://www.amazon.science/research-awards/recipients/burcu-kulahcioglu-ozkan) and [Stellar Academic Research Grant](https://research.stellar.org/research-grants). 
 
 - I am the co-PI of the [UBRI program](https://ripple.com/impact/ubri/) at TU Delft (together with [Annibale Panichella](https://apanichella.github.io/)), funded by Ripple. Our recent work has identified and suggested a fix for [a critical security vulnerability](https://github.com/XRPLF/rippled/pull/4424) in the XRP Ledger, which is awarded by [Ripple's Bug Bounty Program](https://www.tudelft.nl/2023/ewi/st/levin-winter-and-florena-buse-win-ripple-bug-bounty-award).  
 
