@@ -35,7 +35,7 @@ author_profile: true
 **Graduated MSc Students**
 
 - Junbo Xiong, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:5e06978e-a904-4740-a8a1-59c75fde75eb))
-- Luan Li, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:9b6843bb-5d40-4a8c-8613-e50e81cde30f))
+- Luan Li, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:e460256f-5465-4e2e-b600-a0a2a519c7df))
 - Melchior Oudemans, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:9b6843bb-5d40-4a8c-8613-e50e81cde30f))
 - Yanzhuo Zhou, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3Add3c4287-ac18-4e9e-852d-24c3bf584dc7?collection=education), [paper](https://www.computer.org/csdl/proceedings-article/prdc/2023/587600a168/1T8QFo3Dvu8))
 - Wouter van Lil, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid:68eef74c-7a32-4e43-8d41-778d7ea575c2?collection=education))
