@@ -20,6 +20,7 @@ author_profile: true
 - Bob Brockbernd 
 - Giovanni Fincato de Loureiro
 - Artjom Pugatšov
+- Davis Kažemaks
 - Delano Filipse
 
 <!-- ### BSc Research Interns 
@@ -52,6 +53,7 @@ author_profile: true
 - Levin Winter, BSc, 2023 ([paper](https://dl.acm.org/doi/10.1145/3586053), [source code contribution](https://github.com/XRPLF/rippled/pull/4424))
 - Florena Buse, BSc, 2023 ([paper](https://dl.acm.org/doi/10.1145/3586053))
 
+<!--
 **Graduated BSc Project Students**
 
 - Wenkai Li, BSc, 2023 ([paper](https://repository.tudelft.nl/islandora/object/uuid:87fba492-2f3f-4ea4-8e39-b1cf51d36446/datastream/OBJ/download))  
@@ -62,7 +64,7 @@ author_profile: true
 - Martijn Smits, BSc, 2021 ([paper](https://repository.tudelft.nl/islandora/object/uuid:9cc774eb-c4fa-4055-9f18-76f49cf65e8a/datastream/OBJ/download))
 - Melchior Oudemans, BSc, 2021 ([paper](https://repository.tudelft.nl/islandora/object/uuid:303a0423-a43f-4f2b-a557-574f0f7151d4/datastream/OBJ/download))
 - Lars van Koetsveld van Ankeren, BSc, 2021 ([paper](https://repository.tudelft.nl/islandora/object/uuid:6aac4b66-c168-404d-bcc6-b8ea503585a9/datastream/OBJ/download))
-
+-->
 
 <!--
 
