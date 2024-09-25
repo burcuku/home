@@ -9,7 +9,7 @@ redirect_from:
 ---
  
 
-I am an Assistant Professor in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at the Delft University of Technology (TU Delft). Before that, I was a postdoc researcher at the Max Planck Institute for Software Systems (MPI-SWS) in the Rigorous Software Engineering Group, working with [Rupak Majumdar](https://people.mpi-sws.org/~rupak/). I got my PhD from Koç University under the supervision of [Serdar Tasiran](https://www.tasiran.org/).
+I am an Assistant Professor in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at the Delft University of Technology (TU Delft). Before that, I was a postdoc researcher at the Max Planck Institute for Software Systems (MPI-SWS), working with [Rupak Majumdar](https://people.mpi-sws.org/~rupak/). I got my PhD from Koç University under the supervision of [Serdar Tasiran](https://www.tasiran.org/).
 
 
 My research interests span model checking, software testing, and debugging with a focus on concurrent programs and distributed systems. More in my interview ["Challenges of Concurrency"](https://ict-research.nl/wordpress/wp-content/uploads/2022/12/IO-magazine-NR4-2022_online.pdf) at the I/O Magazine, ICT Platform Nederland.
