@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/ecoop24
 excerpt: ''
 date: 2024-09-16
-venue: 'The 38th European Conference on Object-Oriented Programming, (ECOOP) 2024 (to appear)'
-paperurl: ''
+venue: 'The 38th European Conference on Object-Oriented Programming, (ECOOP) 2024'
+paperurl: 'https://drops.dagstuhl.de/storage/00lipics/lipics-vol313-ecoop2024/LIPIcs.ECOOP.2024.8/LIPIcs.ECOOP.2024.8.pdf'
 citation: Bob Brockbernd, Nikita Koval, Arie van Deursen, Burcu Kulahcioglu Ozkan. &quot;Understanding Concurrency Bugs in Real-World Programs with Kotlin Coroutines.&quot; Proceedings of the 38th European Conference on Object-Oriented Programming, (ECOOP) 2024 (to appear)'
 ---
 
