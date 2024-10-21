@@ -11,17 +11,14 @@ author_profile: true
 
 - **[Ege Berkay Gülcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109)**
 - **[João Neto](https://joao.neto.pt/)**
-- Hiring :)
+- *starts in December 2024*
 - Hiring :)
 
 ### MSc Students
 
 - Mantas Zdanavičius
-- Bob Brockbernd 
 - Giovanni Fincato de Loureiro
-- Artjom Pugatšov
-- Davis Kažemaks
-- Delano Filipse
+- Delano Filipse (with ASML)
 
 <!-- ### BSc Research Interns 
 
@@ -35,6 +32,7 @@ author_profile: true
 
 **Graduated MSc Students**
 
+- Bob Brockbernd, MSc, 2024 (with JetBrains) ([thesis](https://repository.tudelft.nl/record/uuid:d0801a6d-54e7-40b4-b0f1-7a7d692523fc), [paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.8))
 - Junbo Xiong, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:5e06978e-a904-4740-a8a1-59c75fde75eb))
 - Luan Li, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:e460256f-5465-4e2e-b600-a0a2a519c7df))
 - Melchior Oudemans, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:9b6843bb-5d40-4a8c-8613-e50e81cde30f))
@@ -42,7 +40,7 @@ author_profile: true
 - Wouter van Lil, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid:68eef74c-7a32-4e43-8d41-778d7ea575c2?collection=education))
 - Marcus Schutte, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A1d6d9c85-6a0e-4208-9605-09f5d292ac2a?collection=education))
 - Jason Qiu, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A40833173-cbe2-497f-8a44-6ea35e65e046), [paper](https://www.computer.org/csdl/proceedings-article/icse-companion/2024/050200a320/1XVHJoOMHZK))
-- Nick Dekker, MSc, 2023 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A748773c5-9651-49db-a694-7c157a8adc62))
+- Nick Dekker, MSc, 2023 (with Adyen) ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A748773c5-9651-49db-a694-7c157a8adc62))
 - Mingyu Gao, MSc, 2022 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129), [paper](https://burcuku.github.io/home/files/asplos23-pctwm.pdf))
 - Martijn van Meerten, MSc, 2022 ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854), [paper](https://ieeexplore.ieee.org/document/10172900)) 
 
