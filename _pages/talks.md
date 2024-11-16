@@ -17,7 +17,10 @@ author_profile: true
 
 ### Invited Tutorials, Seminars, Symposium and Research Talks:
 
-* [UBRI Connect'24](https://www.ubriconnect.com/), Ripple's University Blockchain Research Initiative, 11 September 2024, in Zurich, Switzerland.    
+* ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software), 4-8 November 2024, The Institute for Programming research and Algorithmics, Netherlands.   
+*"Model-Guided Testing of Distributed Systems"*
+
+* [UBRI Connect'24](https://www.ubriconnect.com/), Ripple's University Blockchain Research Initiative, 10-11 September 2024, in Zurich, Switzerland.    
 *”Testing Blockchain Implementations”*
 
 * [VDS'24 colocated with NETYS'24](https://netys.net/), Workshop on Verification of Distributed Systems, 27 May 2024. Rabat, Morocco. 

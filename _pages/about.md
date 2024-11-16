@@ -44,6 +44,10 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative](https://ripple.com/impact/ubri/). 
 **[Online application](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=18006&jobTitle=PhD%20Position%20Testing%20Blockchain%20Applications%20%20) (deadline: July 21, 2024)** -->
 
+* Gave an invited talk on **"Model-Guided Testing of Distributed Systems"** at ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software) on 6 November 2024, The Institute for Programming research and Algorithmics, Netherlands. 
+ 
+* Serve in the PCs of [CAV'25](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182897&copyownerid=189616), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/), .
+
 * Great news! 🚀 Congratulations to my students having two accepted papers at ISSTA/ECOOP'24! 
 	
 	- Congrats to [Ege Berkay Gulcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109) and [João Neto](https://joao.neto.pt/) for their paper **"Generalized Concurrency Testing Tool"** in ISSTA/ECOOP tool track! Check out **[DSTest](https://github.com/egeberkaygulcan/dstest)**!
@@ -51,13 +55,13 @@ The PhD project will focus on the XRP Ledger framework as part of [Ripple's Univ
 	- We also invite the students in the research area to attend the [Doctoral Symposium at ISSTA/ECOOP'24](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)! 
  
 
-* I gave a talk on **"Testing Blockchain Implementations"** at ["UBRI Connect 2024"](https://www.ubriconnect.com/) in September in Zurich. UBRI Connect brings scholars, researchers, and thought leaders in the UBRI network to showcase blockchain initiatives, share knowledge, and inspire future research.
+* Gave a talk on **"Testing Blockchain Implementations"** at ["UBRI Connect 2024"](https://www.ubriconnect.com/) in September in Zurich. UBRI Connect brings scholars, researchers, and thought leaders in the UBRI network to showcase blockchain initiatives, share knowledge, and inspire future research.
 
-* We are looking forward to the **[ISSTA/ECOOP'24 Doctoral Symposium](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)** in Vienna! The ECOOP/ISSTA 2024 Doctoral Symposium will bring together doctoral students working in the area of software testing and analysis and give them the opportunity to present and discuss their research goals, methods, and preliminary results in a constructive and international atmosphere.
+* It was great to organize **[ISSTA/ECOOP'24 Doctoral Symposium](https://conf.researchr.org/track/issta-ecoop-2024/issta-ecoop-2024-doctoral-symposium)** and come together with the PhD students in the research area at ISSTA/ECOOP in Vienna! The ECOOP/ISSTA 2024 Doctoral Symposium brings together doctoral students working in the area of software testing and analysis and give them the opportunity to present and discuss their research goals, methods, and preliminary results in a constructive and international atmosphere. We had two amazing keynotes by Andreas Zeller and Eric Jul.
 
 <!--* [2025] I serve in the PCs of [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), and [Programming'25](https://fmbc.gitlab.io/).-->
 
-* Serve(d) in the PCs of [ASPLOS'24](https://asplos-conference.org/), [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), [NETYS'24](https://netys.net/), [SEFM'24](https://sefm-conference.github.io/2024/) and [VSTTE'24](https://www.soundandcomplete.org/vstte2024.html).
+* Served in the PCs of [ASPLOS'24](https://asplos-conference.org/), [OOPSLA'24](http://www.wikicfp.com/cfp/program?id=2270&%20Languages), [FBMC'24](https://fmbc.gitlab.io/), [VMCAI'24](https://popl24.sigplan.org/home/VMCAI-2024), [NETYS'24](https://netys.net/), [SEFM'24](https://sefm-conference.github.io/2024/) and [VSTTE'24](https://www.soundandcomplete.org/vstte2024.html).
 
 * Gave an invited talk at "VDS - Verification of Distributed Systems" workshop colocated with [NETYS'24](https://netys.net/call-for-papers/). 
 
