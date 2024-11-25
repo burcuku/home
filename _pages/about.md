@@ -46,7 +46,10 @@ The PhD project will focus on the XRP Ledger framework as part of [Ripple's Univ
 
 * Invited to give a keynote at [**FORTE'25** - the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte) at [**DisCoTec'25** - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/keynote), June 16-20, Lille, France. 
 
-* Gave an invited talk on **"Model-Guided Testing of Distributed Systems"** at ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software) on 6 November 2024, The Institute for Programming research and Algorithmics, Netherlands. 
+* Invited talk at [Sabanci University](https://cs.sabanciuniv.edu/), 4 December 2024, Istanbul, Turkey. 
+
+
+* Invited talk on **"Model-Guided Testing of Distributed Systems"** at ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software) on 6 November 2024, The Institute for Programming research and Algorithmics, Netherlands. 
  
 * Serve in the PCs of [CAV'25](https://conferences.i-cav.org/2025/), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/).
 

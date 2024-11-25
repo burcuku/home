@@ -17,6 +17,8 @@ author_profile: true
 
 ### Invited Tutorials, Seminars, Symposium and Research Talks:
 
+* [Sabanci University](https://cs.sabanciuniv.edu/),  Computer Science and Engineering, Internal Seminar, 4 December 2024. Istanbul, Turkey. 
+
 * ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software), 4-8 November 2024, The Institute for Programming research and Algorithmics, Netherlands.   
 *"Model-Guided Testing of Distributed Systems"*
 
