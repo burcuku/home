@@ -30,7 +30,7 @@ author_profile: true
 
 ### Former members
 
-**Graduated MSc Students**
+<!-- **Graduated MSc Students** -->
 
 - Bob Brockbernd, MSc, 2024 (with JetBrains) ([thesis](https://repository.tudelft.nl/record/uuid:d0801a6d-54e7-40b4-b0f1-7a7d692523fc))
 <!-- [paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.8))-->
@@ -52,7 +52,7 @@ author_profile: true
 
 
 
-**Graduated Honours Programme Students**
+<!-- **Graduated Honours Programme Students** -->
 
 - Levin Winter, BSc, 2023 ([paper](https://dl.acm.org/doi/10.1145/3586053), [source code contribution](https://github.com/XRPLF/rippled/pull/4424))
 - Florena Buse, BSc, 2023 ([paper](https://dl.acm.org/doi/10.1145/3586053))
