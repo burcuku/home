@@ -9,10 +9,14 @@ author_profile: true
 
 ### PhD Students
 
-- PhD, **[Ege Berkay Gülcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109)**
-- PhD, **[João Neto](https://joao.neto.pt/)**
-- PhD, **Zahra Seyedghorban** *(starts in December 2024)*
-- MSc, Delano Filipse (with ASML)
+- **[Ege Berkay Gülcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109)**
+- **[João Neto](https://joao.neto.pt/)**
+- **Zahra Seyedghorban**
+
+### MSc Students
+- Delano Filipse (with ASML) (main supervisor, co-supervised by Jeremie Decouchant)
+- Davis Kažemaks (with ASML) (co-supervisor, supervised by Jeremie Decouchant)
+
 
 *We have open positions for a PhD and several MSc projects in testing distributed systems and blockchains. Send an email with a detailed motivation letter if you're interested.* 
 
@@ -30,7 +34,7 @@ author_profile: true
 
 - Bob Brockbernd, MSc, 2024 (with JetBrains) ([thesis](https://repository.tudelft.nl/record/uuid:d0801a6d-54e7-40b4-b0f1-7a7d692523fc))
 <!-- [paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.8))-->
-- Mantas Zdanavičius, MSc, 2024([thesis](https://repository.tudelft.nl/record/uuid:b167bf53-e5e4-4e15-859c-0618b3f44279))
+- Mantas Zdanavičius, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:b167bf53-e5e4-4e15-859c-0618b3f44279))
 - Junbo Xiong, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:5e06978e-a904-4740-a8a1-59c75fde75eb))
 - Luan Li, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:e460256f-5465-4e2e-b600-a0a2a519c7df))
 - Melchior Oudemans, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:9b6843bb-5d40-4a8c-8613-e50e81cde30f))

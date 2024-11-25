@@ -44,11 +44,13 @@ Aegidius Strauch -> Nicolaus Zapf -> Erasmus Schmidt -> Sethus Calvisius
 The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative](https://ripple.com/impact/ubri/). 
 **[Online application](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=18006&jobTitle=PhD%20Position%20Testing%20Blockchain%20Applications%20%20) (deadline: July 21, 2024)** -->
 
+* Invited to give a keynote at [**FORTE'25** - the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte) at [**DisCoTec'25** - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/keynote), June 16-20, Lille, France. 
+
 * Gave an invited talk on **"Model-Guided Testing of Distributed Systems"** at ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software) on 6 November 2024, The Institute for Programming research and Algorithmics, Netherlands. 
  
-* Serve in the PCs of [CAV'25](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182897&copyownerid=189616), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/), .
+* Serve in the PCs of [CAV'25](https://conferences.i-cav.org/2025/), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/).
 
-* Great news! 🚀 Congratulations to my students having two accepted papers at ISSTA/ECOOP'24! 
+* Great news! 🚀 Congratulations to my students for having two accepted papers at ISSTA/ECOOP'24! 
 	
 	- Congrats to [Ege Berkay Gulcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109) and [João Neto](https://joao.neto.pt/) for their paper **"Generalized Concurrency Testing Tool"** in ISSTA/ECOOP tool track! Check out **[DSTest](https://github.com/egeberkaygulcan/dstest)**!
 	- Congrats to [Bob Brockbernd](https://nl.linkedin.com/in/bob-brockbernd-6853b61b7) for his paper **"[Understanding Concurrency Bugs in Real-World Programs with Kotlin Coroutines](https://2024.ecoop.org/details/ecoop-2024-papers/47/Understanding-Concurrency-Bugs-in-Real-World-Programs-with-Kotlin-Coroutines)"** together with [Nikita Koval](https://nikitakoval.org/) and [Arie van Deursen](https://avandeursen.com/about/) in ECOOP!

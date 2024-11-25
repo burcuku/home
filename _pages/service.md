@@ -19,7 +19,10 @@ author_profile: true
 
 
 ## Program Committees:
+
+* PC Member, [CAV'25](https://conferences.i-cav.org/2025/), the 37th International Conference on Computer Aided Verification
 * PC Member, [ICST'25](https://conf.researchr.org/home/icst-2025), the 18th IEEE International Conference on Software Testing, Verification and Validation
+* PC Member, [FBMC'25](https://fmbc.gitlab.io/), the 6th Int. Workshop on Formal Methods for Blockchains 
 * PC Member, [ESOP'25](https://etaps.org/2025/conferences/esop/), the 34rd European Symposium on Programming
 * PC Member, [\<Programming'25\>](https://etaps.org/2025/conferences/esop/), the International Conference on the Art, Science, and Engineering of Programming
 * PC Member, [SEFM'24](https://sefm-conference.github.io/2024/), the 22nd Int. Conf. on Software Engineering and Formal Methods 
