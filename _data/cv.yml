@@ -1,97 +1,129 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Short Bio
+      value: Burcu Kulahcioglu Ozkan is an assistant professor and Delft Technology Fellow in the Software Engineering Research Group at TU Delft. She received her PhD from Koç University in Istanbul, Turkey, followed by postdoctoral research at the Max Planck Institute for Software Systems (MPI-SWS) in Kaiserslautern, Germany. Her research focuses on formal methods, model checking, software testing, and debugging of concurrent programs and distributed systems. She is a recipient of the academic research awards and grants from Amazon Research, Ripple University Research Initiative, and Stellar Development Foundation.
+    - name: Web
+      value: https://burcuku.github.io/home/
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor in Software Engineering
+      institution: Delft University of Technology (TU Delft), Delft, Netherlands
+      year: 09.2020 - now
+      description: 
+        - Leading the "Software Reliability of Concurrent and Distributed Systems" research team
+        # - formal methods, software testing, concurrency, distributed systems
+
+    - title: Postdoctoral Researcher
+      institution: Max Planck Institute for Software Technology (MPI-SWS), Kaiserslautern, Germany
+      year: 02.2017 - 08.2020
+      description:
+        # - formal methods, software testing, concurrency, distributed systems
+        - At Rigorous Software Engineering, led by Rupak Majumdar
+
+    - title: PhD Student and Research Assistant
+      institution: Koç University, Istanbul, Turkey
+      year: 07.2012 - 09.2016
+      description:
+        # - formal verification, software testing, concurrency
+        - At Multi-Core Software Engineering, led by Serdar Tasiran
+
+    - title: Research Intern
+      institution: IMDEA Software Institute, Madrid, Spain
+      year: 03.2014 - 07.2014
+      description: 
+        # - software testing, concurrency, Android applications
+        # - Supervised by Micheal Emmi
+
+    - title: Research Intern
+      institution: LIAFA (IRIF), Université Paris Diderot, Paris, France
+      year: 07.2013 - 08.2013
+      description: 
+        # - formal methods, software verification, concurrency
+        # - Supervised by Ahmed Bouajjani and Micheal Emmi
+
+    - title: Research Intern
+      institution: INRIA, Université Pierre Marie Curie, Paris, France
+      year: 07.2013 - 08.2013
+      description: 
+        # -  Supervised by Marc Shapiro
+
+    - title: Research and Teaching Assistant
+      institution: Yasar University, Izmir, Turkey
+      year: 09.2010 - 06.2012
+      description:
+
+    - title: Research and Teaching Assistant
+      institution: Izmir Institute of Technology, Izmir, Turkey
+      year: 12.2007 - 08.2010
+      description:
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Koç University, Istanbul, Turkey
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      - PhD. Thesis. "Characterization and Verification of Correctness Criteria for Event Driven Asynchronous Programs"
+
+    - title: MSc
+      institution: Izmir Institute of Technology, Izmir, Turkey
+      year: 2010
+      description: 
+      - Msc. Thesis. "Utilization of Timed Automata as a Verification Tool for Security Protocols"
+
+
+    - title: BSc
+      institution: Yeditepe University, Istanbul, Turkey
+      year: 2007
       description:
-        - Description 1.
-        - Description 2.
+       - BSc Thesis. "Multiobjective Hyperheuristics for Data Clustering Problem"
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Distinguished Paper Award at OOPSLA'23
+        - With the paper “Randomized testing of Byzantine fault tolerant algorithms”
+    - year: 2023
+      items: 
+        - Stellar Academic Research Grant
+        - With the research proposal “Feedback-guided fault injection testing of blockchain systems”
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Ripple Bug Bounty Program Award
+        - For the bug we discovered by our ByzzFuzz randomized testing method for testing Byzantine fault tolerant algorithms
+    - year: 2022
+      items:
+        - Amazon Research Award
+        - With the research proposal "Coverage-directed random testing of distributed systems"
+    - year: 2020
+      items:
+        - Delft Technology Fellowship Award
+        - Award for outstanding female academic researchers
+    - year: 2018
+      items:
+        - Distinguished Paper Award at OOPSLA'18
+        - With the paper “Randomized Testing of Distributed Systems with Probabilistic Guarantees”    
+    - year: 2011
+      items:
+        - TUBITAK Fellowship for PhD Students 
+        - The Turkish Council for Scientific and Technical Research
+    - year: 2008
+      items:
+        - TUBITAK Fellowship for International Scientific Activities
+        - The Turkish Council for Scientific and Technical Research
+    - year: 2007
+      items:
+        - High Honour and 3rd Degree Award in Graduation
+        - Yeditepe University, Istanbul, Turkey
+    - year: 2007
+      items:
+        - TUBITAK Fellowship for 4th Grade Undergraduate Students
+        - The Turkish Council for Scientific and Technical Research 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
