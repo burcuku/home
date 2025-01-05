@@ -7,49 +7,49 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/home/";
     },
   },{id: "nav-team",
           title: "team",
           description: "Research on Software Reliability of Concurrent and Distributed Systems",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/team";
+            window.location.href = "/home/team";
           },
         },{id: "nav-research",
           title: "research",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/home/research/";
           },
         },{id: "nav-talks",
           title: "talks",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/talks/";
+            window.location.href = "/home/talks/";
           },
         },{id: "nav-service",
           title: "service",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/service";
+            window.location.href = "/home/service";
           },
         },{id: "nav-teaching",
           title: "teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/home/teaching/";
           },
         },{id: "nav-bio",
           title: "bio",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/bio/";
+            window.location.href = "/home/bio/";
           },
         },{
       id: 'light-theme',
