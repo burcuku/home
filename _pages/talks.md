@@ -17,10 +17,10 @@ nav_order: 4
 
 * [FORTE’25 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte)   
   10-16 June  2025, University of Lille, Lille, France.  
-  **Keynote:** *"From Formal Models to Testing of Distributed Systems”*
+  **Keynote:** *"From Formal Methods to Testing of Distributed Systems”*
 
 * [SEFM’23 - 21st International Conference on Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)   
-  10 November 2023, Eindhoven University of Technology, The Netherlands.    
+  6-10 November 2023, Eindhoven University of Technology, The Netherlands.    
   **Keynote:** *”Randomized Testing of Distributed Systems”*
 
 ### Invited Symposium, Workshop, and Research Talks:
