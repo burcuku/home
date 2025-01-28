@@ -25,12 +25,14 @@ nav_order: 4
 
 ### Invited Symposium, Workshop, and Research Talks:
 
+* [SEN'25 Symposium](https://www.sen-symposium.nl/), National Symposium on Software engineering (SEN), 23 May 2025. Amsterdam, Netherlands. 
+
 * [VDS'25 colocated with NETYS'25](https://netys.net/), Workshop on Verification of Distributed Systems, 19 May 2025. Rabat, Morocco. 
 
 * [Sabanci University](https://cs.sabanciuniv.edu/), Internal Research Seminar, 4 December 2024. Istanbul, Turkey. 
 
 * ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software), 4-8 November 2024, The Institute for Programming research and Algorithmics, Netherlands.   
-*Talk: "Model-Guided Testing of Distributed Systems"*
+<!-- *Talk: "Model-Guided Testing of Distributed Systems"* -->
 
 * [UBRI Connect'24](https://www.ubriconnect.com/), Ripple's University Blockchain Research Initiative, 10-11 September 2024, in Zurich, Switzerland.    
 *Talk: ”Testing Blockchain Implementations”*
@@ -64,9 +66,7 @@ nav_order: 4
 	
 * [Adyen](https://www.adyen.com/knowledge-hub/taking-onboarding-and-upskilling-to-the-next-level) Internal Tech Talks, 9 February 2022.	
 		
-* [SEN Symposium'21: National Symposium Software Engineering in The Netherlands](https://www.sen-symposium.nl/history/2021/program/)   
-	*Invited talk*, 18-19 February 2021, online.
-
+* [SEN'21 Symposium](https://www.sen-symposium.nl/), National Symposium on Software engineering (SEN), 18-19 February 2021, online.
 
 <!-- * [Dagstuhl Seminar 21442: Ensuring the Reliability and Robustness of Database Systems](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/21442)      
 	1-4 November 2021, Schloss Dagstuhl, Wadern, Germany.
