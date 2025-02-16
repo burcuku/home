@@ -9,8 +9,10 @@ nav_order: 5
 
 ## Organization:
 
+* Co-chair, [DEBT'25](https://2025.ecoop.org/track/ecoop-2025-workshops), Third Workshop on Future Debugging Techniques colocated with [ECOOP'25](https://2025.ecoop.org/).
+* Remote Attendee Chair	, [ASPLOS'25](https://www.asplos-conference.org/asplos2025/) and [EuroSys 2025](https://2025.eurosys.org/).
 * Co-chair, [ISSTA/ECOOP 2024 Doctoral Symposium](https://2024.issta.org/track/issta-ecoop-2024-doctoral-symposium).
-*  Co-chair, [ACM Student Research Competition'24](https://2024.programming-conference.org/track/programming-2024-SRC) at [Programming Conference 2024](https://2024.programming-conference.org/).
+* Co-chair, [ACM Student Research Competition'24](https://2024.programming-conference.org/track/programming-2024-SRC) at [Programming Conference 2024](https://2024.programming-conference.org/).
 * Co-chair, [Erlang'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), the 22nd Edition of the ACM SIGPLAN Erlang Workshop, a co-located event of [ICFP 2023](https://icfp23.sigplan.org/).
 * Co-organizer, [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/) co-located with [CAV 2023](http://www.i-cav.org/2023/).
 * Co-organizer, [Alice and Eve'22](https://alice-and-eve.github.io/2022/), the third edition of the [workshop for celebrating women in computing](https://www.utwente.nl/en/eemcs/aliceandeve/), 2022.
@@ -20,6 +22,7 @@ nav_order: 5
 
 ## Program Committees:
 
+* [ICSE'26](https://conf.researchr.org/home/icse-2026) 48th International Conference on Software Engineering
 * [CAV'25](https://conferences.i-cav.org/2025/), 37th Int. Conf. on Computer Aided Verification
 * [ICST'25](https://conf.researchr.org/home/icst-2025), 18th IEEE International Conference on Software Testing, Verification and Validation
 * [FBMC'25](https://fmbc.gitlab.io/), 6th Int. Workshop on Formal Methods for Blockchains 

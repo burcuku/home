@@ -37,18 +37,20 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
 
 ## News: 
 
-* We're hiring a PhD student to work on testing blockchain systems and applications. 🚀 
+<!-- * We're hiring a PhD student to work on testing blockchain systems and applications. 🚀 
 
   The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative (UBRI)](https://ripple.com/impact/ubri/).   
-  **[Apply here](https://careers.tudelft.nl/job/Delft-PhD-Position-Testing-Blockchain-Applications-2628-CD/809348702/) (deadline: 19 January, 2025)**
+  **[Apply here](https://careers.tudelft.nl/job/Delft-PhD-Position-Testing-Blockchain-Applications-2628-CD/809348702/) (deadline: 19 January, 2025)** -->
 
-* I'm excited to give an invited keynote at [FORTE'25 - the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte) at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/keynote), June 16-20, Lille, France. 
+* I'm excited to give the keynote talk at [FORTE'25 - the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte) at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/keynote), June 16-20, Lille, France. 
 
 * Looking forward to give an invited tutorial at [VLDB Summer School](https://vldb.org/summerschool/) on 28-31 July 2025,  University of Wroclaw, Poland. The VLDB Summer School aims to bring together early-stage research students and international experts in Database Management Systems for a multi-day event. Check out the summer school [website]((https://vldb.org/summerschool/)) for the applications. 
 
+* I'll give an invited talk at [SEN'25 Symposium](https://www.sen-symposium.nl/), National Symposium on Software engineering (SEN), 23 May 2025. Amsterdam, Netherlands.  
+
 * Invited talk at [Sabanci University](https://cs.sabanciuniv.edu/), 4 December 2024, Istanbul, Turkey. 
 
-* Serve in the PCs of [CAV'25](https://conferences.i-cav.org/2025/), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/).
+* Serve in the PCs of [ICSE'26](https://conf.researchr.org/home/icse-2026), [CAV'25](https://conferences.i-cav.org/2025/), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/).
 
 * Invited talk on **"Model-Guided Testing of Distributed Systems"** at ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software) on 6 November 2024, The Institute for Programming research and Algorithmics, Netherlands. 
  
