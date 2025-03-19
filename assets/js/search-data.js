@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-team",
           title: "team",
-          description: "Research on Software Reliability of Concurrent and Distributed Systems",
+          description: "Research on Lightweight Formal Methods for Software Engineering, Reliability of Concurrent and Distributed Systems",
           section: "Navigation",
           handler: () => {
             window.location.href = "/home/team";
