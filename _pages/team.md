@@ -2,7 +2,7 @@
 layout: page
 permalink: /team
 title: team 
-description: Research on Software Reliability of Concurrent and Distributed Systems
+description: Research on Lightweight Formal Methods for Software Engineering, Reliability of Concurrent and Distributed Systems
 nav: true
 nav_order: 1
 ---

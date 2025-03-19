@@ -13,7 +13,7 @@ nav_order: 4
 
 <!-- {% include bib_search.liquid %} -->
 
-### Conference Keynotes: 
+### Keynotes at International Conferences: 
 
 * [FORTE’25 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte)   
   10-16 June  2025, University of Lille, Lille, France.  
