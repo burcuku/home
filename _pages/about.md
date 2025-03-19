@@ -18,17 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 <!-- I am an Assistant Professor in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at the Delft University of Technology (TU Delft). <!-- Before that, I was a postdoc researcher at the Max Planck Institute for Software Systems (MPI-SWS), working with [Rupak Majumdar](https://people.mpi-sws.org/~rupak/). I got my PhD from Koç University under the supervision of [Serdar Tasiran](https://www.tasiran.org/). -->
 
-Today’s software systems are increasingly complex, with high degree of concurrency and distribution. Given their size and complexity, applying formal verification techniques to guarantee their correctness is often impractical.
+As software systems have become ubiquitous, modern applications are designed to be highly concurrent, responsive, fault-tolerant, and distributed. The increased complexity of these systems makes it more challenging to produce correct software.
 
-My research lab, [FORSE (Lightweight Formal Methods for Software Engineering)](https://se.ewi.tudelft.nl/research-lines/forse), aims to bridge the gap between informal testing and full formal verification of software systems using lightweight formal methods. We develop automated software methods that incorporate the rigorous approaches of formal methods, combinatorics, and verification into practical tools for software analysis. Our methods aim to strike a balance between rigorous mathematical reasoning and practical usability by applying formal methods in a less complete and more flexible way to improve software reliability without the full cost and complexity of formal verification.
+My research aims to produce rigorous and practical software tools for increasing the reliability of software systems: It brings the advantages of the rigorous approaches of formal methods together with the practical approaches of sofware engineering. To this end, my research spans **formal methods, model checking, software testing**, and **debugging** with a focus on **concurrent and distributed systems**. You can find more in my interview ["Challenges of Concurrency"](https://ict-research.nl/wordpress/wp-content/uploads/2022/12/IO-magazine-NR4-2022_online.pdf) at the I/O Magazine, ICT Platform Nederland.
 
-
-To this end, our research spans **formal methods, model checking, software testing**, and **debugging** with a focus on **concurrent and distributed systems**. 
-You can find more in my interview ["Challenges of Concurrency"](https://ict-research.nl/wordpress/wp-content/uploads/2022/12/IO-magazine-NR4-2022_online.pdf) at the I/O Magazine, ICT Platform Nederland.
 
 At TU Delft, I lead and take supervisory role in several research teams and projects:   
 
-- I lead the [FORSE](https://se.ewi.tudelft.nl/research-lines/forse) lab, where my [team](https://burcuku.github.io/home/team) develops automated software analysis techniques for concurrent and distributed systems. Our research has been funded by personal academic research grants from the [Amazon Research Award](https://www.amazon.science/research-awards/recipients/burcu-kulahcioglu-ozkan) and [Stellar Academic Research Grant](https://research.stellar.org/research-grants). 
+- I lead the [FORSE (Lightweight Formal Methods for Software Engineering)](https://se.ewi.tudelft.nl/research-lines/forse) lab, where my [team](https://burcuku.github.io/home/team) develops automated software analysis techniques for concurrent and distributed systems. Our research has been funded by personal academic research grants from the [Amazon Research Award](https://www.amazon.science/research-awards/recipients/burcu-kulahcioglu-ozkan) and [Stellar Academic Research Grant](https://research.stellar.org/research-grants). 
 
 - I am the co-PI of Ripple's [UBRI program](https://ripple.com/impact/ubri/) at TU Delft together with [Annibale Panichella](https://apanichella.github.io/). Our lab focuses on testing and debugging of blockchain systems and their applications.
 
