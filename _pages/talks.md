@@ -27,7 +27,7 @@ nav_order: 4
 
 * [SEN'25 Symposium](https://www.sen-symposium.nl/), National Symposium on Software engineering (SEN), 23 May 2025. Amsterdam, Netherlands. 
 
-* [VDS'25 colocated with NETYS'25](https://netys.net/), Workshop on Verification of Distributed Systems, 19 May 2025. Rabat, Morocco. 
+* [VDS'25 colocated with NETYS'25](https://netys.net/wds2025/VDS25.html), Workshop on Verification of Distributed Systems, 19-21 May 2025. Rabat, Morocco. 
 
 * [Sabanci University](https://cs.sabanciuniv.edu/), Internal Research Seminar, 4 December 2024. Istanbul, Turkey. 
 
