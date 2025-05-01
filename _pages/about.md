@@ -42,7 +42,7 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
   The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative (UBRI)](https://ripple.com/impact/ubri/).   
   **[Apply here](https://careers.tudelft.nl/job/Delft-PhD-Position-Testing-Blockchain-Applications-2628-CD/809348702/) (deadline: 19 January, 2025)** -->
 
-* Call for papers for the Third Workshop on Future Debugging Techniques **[DEBT'25](https://2025.ecoop.org/home/debt-2025)** colocated with **[ECOOP'25](https://2025.ecoop.org/)** is open! We are looking for your submissions. **Submission Deadline: April 25, 2025**
+* Call for papers for the Third Workshop on Future Debugging Techniques **[DEBT'25](https://2025.ecoop.org/home/debt-2025)** colocated with **[ECOOP'25](https://2025.ecoop.org/)** is open! We are looking for your submissions. **Submission deadline extended to: May 2, 2025**
 
 * I'll give the keynote talk at **[FORTE'25 - the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte)** at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/keynote), June 16-20, Lille, France. 
 
