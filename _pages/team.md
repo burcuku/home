@@ -2,7 +2,7 @@
 layout: page
 permalink: /team
 title: team 
-description: Research on Lightweight Formal Methods for Software Engineering, Reliability of Concurrent and Distributed Systems
+description: Research on Lightweight Formal Methods for Software Engineering, Reliability of Concurrent, Distributed, and Large-scale Software Systems
 nav: true
 nav_order: 1
 ---
@@ -15,13 +15,12 @@ nav_order: 1
 
 - **[Ege Berkay Gülcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109)**
 - **[João Neto](https://joao.neto.pt/)**
-- **[Zahra Seyedghorban](https://nl.linkedin.com/in/zahraseyedghorban)**
+- **[Zahra Seyedghorban](https://nl.linkedin.com/in/zahraseyedghorban) (with JetBrains)**
+- **[Egor Klimov](https://nl.linkedin.com/in/egor-klimov) (at JetBrains)**
 
 ### MSc students
 - Delano Filipse (with ASML)   
-(main supervisor, co-supervised by Jeremie Decouchant)
 - Davis Kažemaks (with ASML)   
-(co-supervisor, supervised by Jeremie Decouchant)
 
 <!--
 *We have open positions for a PhD and several MSc projects in testing distributed systems and blockchains.
