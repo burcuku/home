@@ -27,10 +27,10 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
 
 - I lead the [FORSE (Lightweight Formal Methods for Software Engineering)](https://se.ewi.tudelft.nl/research-lines/forse) lab, where my [team](https://burcuku.github.io/home/team) develops automated software analysis techniques for concurrent and distributed systems. Our research has been funded by personal academic research grants from the [Amazon Research Award](https://www.amazon.science/research-awards/recipients/burcu-kulahcioglu-ozkan) and [Stellar Academic Research Grant](https://research.stellar.org/research-grants). 
 
-- I am the co-PI of Ripple's [UBRI program](https://ripple.com/impact/ubri/) at TU Delft together with [Annibale Panichella](https://apanichella.github.io/). Our lab focuses on testing and debugging of blockchain systems and their applications.
+- I am the co-PI of Ripple's [UBRI program](https://ripple.com/impact/ubri/) at TU Delft together with [Annibale Panichella](https://apanichella.github.io/). Our lab focuses on testing and debugging blockchain systems and their applications.
 
 
-- I lead a research track of the [TU Delft - JetBrains collaboration](https://se.ewi.tudelft.nl/ai4se/), AISE. [Our track](https://se.ewi.tudelft.nl/ai4se/tracks/04_utilizing_runtime_data.html) aims to utilize the runtime information to improve software development and quality.
+- I lead a research track of the [TU Delft - JetBrains collaboration](https://se.ewi.tudelft.nl/ai4se/), AI4SE. [Our track](https://se.ewi.tudelft.nl/ai4se/tracks/04_utilizing_runtime_data.html) aims to utilize the runtime information to improve software development and quality.
 
 
 
