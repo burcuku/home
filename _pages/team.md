@@ -16,7 +16,7 @@ nav_order: 1
 - **[Ege Berkay Gülcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109)**
 - **[João Neto](https://joao.neto.pt/)**
 - **[Zahra Seyedghorban](https://nl.linkedin.com/in/zahraseyedghorban)** (with JetBrains)
-- **[Egor Klimov](https://nl.linkedin.com/in/egor-klimov)** (at JetBrains)
+- **[Egor Klimov](https://nl.linkedin.com/in/egor-klimov)** (with JetBrains)
 
 ### MSc students
 - Delano Filipse (with ASML)   

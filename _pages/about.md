@@ -50,6 +50,8 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
 
 * I'll give an invited talk at [SEN'25 Symposium](https://www.sen-symposium.nl/), National Symposium on Software engineering (SEN), 23 May 2025. Amsterdam, Netherlands.  
 
+* I'll participate in [VDS'25 - Workshop on Verification of Distributed Systems](https://netys.net/wds2025/VDS25.html) colocated with [NETYS'25](https://netys.net/), May 19-21, Rabat, Morocco. 
+
 * Invited talk at [Sabanci University](https://cs.sabanciuniv.edu/), 4 December 2024, Istanbul, Turkey. 
 
 * Serve in the PCs of [ICSE'26](https://conf.researchr.org/home/icse-2026), [CAV'25](https://conferences.i-cav.org/2025/), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/).
