@@ -16,7 +16,7 @@ nav_order: 4
 ### Keynotes at International Conferences: 
 
 * [FORTE’25 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte)   
-  10-16 June  2025, University of Lille, Lille, France.  
+  16-20 June  2025, University of Lille, Lille, France.  
   **Keynote:** *"From Formal Methods to Testing of Distributed Systems”*
 
 * [SEFM’23 - 21st International Conference on Software Engineering and Formal Methods](https://sefm-conference.github.io/2023/)   
