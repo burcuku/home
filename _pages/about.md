@@ -42,21 +42,25 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
   The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative (UBRI)](https://ripple.com/impact/ubri/).   
   **[Apply here](https://careers.tudelft.nl/job/Delft-PhD-Position-Testing-Blockchain-Applications-2628-CD/809348702/) (deadline: 19 January, 2025)** -->
 
-* Call for papers for the Third Workshop on Future Debugging Techniques **[DEBT'25](https://2025.ecoop.org/home/debt-2025)** colocated with **[ECOOP'25](https://2025.ecoop.org/)** is open! We are looking for your submissions. **Submission deadline extended to: May 2, 2025**
+* 🚀 :tada: Honoured and looking forward to giving **[the keynote talk at FORTE'25](https://www.discotec.org/2025/invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte)**, the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems, at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/conferences), **June 16-20**, Lille, France. 
+ 
+* :tada: Happy to share that our paper **[Fuzzing Graph Database Applications with Graph Transformations](https://conf.researchr.org/details/icgt-2025/icgt-2025-research-papers/4/Fuzzing-Graph-Database-Applications-with-Graph-Transformations)** with my MSc student **[Melchior Oudemans](https://www.linkedin.com/in/melchior-oudemans/)** and co-supervision of **[Stefania Dumrava](https://web4.ensiie.fr/~stefania.dumbrava/)** has been awarded the European Association of Software Science and Technology **<span style="color:#000080">Best Software Science Paper</span>** at **[ICGT'25](https://conf.researchr.org/home/icgt-2025)**, 10-12 June 2025, Koblenz, Germany. 
 
-* I'll give the keynote talk at **[FORTE'25 - the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte)** at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/keynote), June 16-20, Lille, France. 
+* :speaker: We're excited to invite you to **[DEBT'25 - the Third Workshop on Future Debugging Techniques](https://2025.ecoop.org/home/debt-2025)** colocated with **[ECOOP'25](https://2025.ecoop.org/)**! Looking forward to seeing you at the workshop on **July 4**, Bergen, Norway.
 
-* I'll give an invited tutorial at [VLDB Summer School](https://vldb.org/summerschool/) on 28-31 July 2025,  University of Wroclaw, Poland. The VLDB Summer School aims to bring together early-stage research students and international experts in Database Management Systems for a multi-day event. Check out the summer school [website]((https://vldb.org/summerschool/)) for the applications. 
+<!-- * I'll give the keynote talk at **[FORTE'25 - the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte)** at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/keynote), June 16-20, Lille, France. -->
 
-* I'll give an invited talk at [SEN'25 Symposium](https://www.sen-symposium.nl/), National Symposium on Software engineering (SEN), 23 May 2025. Amsterdam, Netherlands.  
+* Looking forward to give an invited tutorial at **[VLDB Summer School](https://vldb.org/summerschool/)** on 28-31 July 2025,  University of Wroclaw, Poland. The VLDB Summer School aims to bring together early-stage research students and international experts in Database Management Systems for a multi-day event. Check out the summer school [website]((https://vldb.org/summerschool/)) for the applications. 
 
-* I'll participate in [VDS'25 - Workshop on Verification of Distributed Systems](https://netys.net/wds2025/VDS25.html) colocated with [NETYS'25](https://netys.net/), May 19-21, Rabat, Morocco. 
+* Gave an invited talk at **[SEN'25 Symposium](https://www.sen-symposium.nl/)**, National Symposium on Software engineering (SEN), organized by **[VERSEN](https://www.versen.nl/)** to bring together the Dutch software engineering, programming languages, and formal methods community. 23 May 2025. Amsterdam, Netherlands.  
 
-* Invited talk at [Sabanci University](https://cs.sabanciuniv.edu/), 4 December 2024, Istanbul, Turkey. 
+* Serve(d) in the PCs of [ICSE'26](https://conf.researchr.org/home/icse-2026), [SEFM'25](https://sefm-conference.github.io/2025/), [CAV'25](https://conferences.i-cav.org/2025/), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/).
 
-* Serve in the PCs of [ICSE'26](https://conf.researchr.org/home/icse-2026), [CAV'25](https://conferences.i-cav.org/2025/), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/).
+* Invited participation to [VDS'25 - Workshop on Verification of Distributed Systems](https://netys.net/wds2025/VDS25.html) colocated with [NETYS'25](https://netys.net/), May 19-21, Rabat, Morocco. 
 
-* Invited talk on **"Model-Guided Testing of Distributed Systems"** at ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software) on 6 November 2024, The Institute for Programming research and Algorithmics, Netherlands. 
+* Gave an invited talk at [Sabanci University](https://cs.sabanciuniv.edu/), 4 December 2024, Istanbul, Turkey. 
+
+* Gave an invited talk on **"Model-Guided Testing of Distributed Systems"** at ["IPA Fall Days on Models for Constructing Software"](https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software) on 6 November 2024, The Institute for Programming research and Algorithmics, Netherlands. 
  
 
 * Great news! 🚀 Congratulations to my students for having two accepted papers at ISSTA/ECOOP'24! 
