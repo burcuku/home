@@ -42,13 +42,19 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
   The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative (UBRI)](https://ripple.com/impact/ubri/).   
   **[Apply here](https://careers.tudelft.nl/job/Delft-PhD-Position-Testing-Blockchain-Applications-2628-CD/809348702/) (deadline: 19 January, 2025)** -->
 
-* Looking forward to give an invited tutorial at **[VLDB Summer School](https://vldb-sc25.cs.uni.wroc.pl/)** on **July 28-31** 2025,  University of Wroclaw, Poland. The VLDB Summer School aims to bring together early-stage research students and international experts in Database Management Systems for a multi-day event. 
+* :speaker: I'm looking forward to give an invited talk at the [Bits&Chips Event 2025](https://events.bits-chips.com/bitschips-event/#program), will be held on **20 November**, in Eindhoven.
+
+* :books: I'm happy to give a tutorial at the [Summer School on Distributed and Replicated Environments (DARE'25)](https://dare-lisbon.github.io/), held on **8-12 September** in Lisbon, Portugal.
+
+* I serve in the PCs of [ICSE'26](https://conf.researchr.org/home/icse-2026), [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026), and [CAV'26](https://i-cav.org/).
+
+* :books: It was inspiring to give a tutorial and come together with the international experts and keen graduate students at **[VLDB Summer School](https://vldb-sc25.cs.uni.wroc.pl/)** on **July 28-31** 2025,  University of Wroclaw, Poland. Find some updates and posts [here](https://www.linkedin.com/company/vldb-ssc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BedZP93OJTvCk5LwUaazjSg%3D%3D).
 
 * :speaker: We're excited to invite you to **[DEBT'25 - the Third Workshop on Future Debugging Techniques](https://2025.ecoop.org/home/debt-2025)** colocated with **[ECOOP'25](https://2025.ecoop.org/)**! Looking forward to welcoming you at the workshop on **July 4**, Bergen, Norway.
 
-* 🚀 :tada: Honoured and looking forward to giving **[the keynote talk at FORTE'25](https://www.discotec.org/2025/invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte)**, the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems, at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/conferences), **June 16-20**, Lille, France. 
+* :speaker: 🚀 :tada: Honoured and excited to give **[the keynote talk at FORTE'25](https://www.discotec.org/2025/invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte)**, the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems, at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/conferences), **June 16-20**, Lille, France. 
  
-* :tada: Happy to share that our paper **[Fuzzing Graph Database Applications with Graph Transformations](https://conf.researchr.org/details/icgt-2025/icgt-2025-research-papers/4/Fuzzing-Graph-Database-Applications-with-Graph-Transformations)** with my MSc student **[Melchior Oudemans](https://www.linkedin.com/in/melchior-oudemans/)** and co-supervision of **[Stefania Dumrava](https://web4.ensiie.fr/~stefania.dumbrava/)** has been awarded the European Association of Software Science and Technology **<span style="color:#000080">Best Software Science Paper</span>** at **[ICGT'25](https://conf.researchr.org/home/icgt-2025)**, **June 10-12**, Koblenz, Germany. 
+* :tada: Happy to share that our paper [Fuzzing Graph Database Applications with Graph Transformations](https://conf.researchr.org/details/icgt-2025/icgt-2025-research-papers/4/Fuzzing-Graph-Database-Applications-with-Graph-Transformations) with my MSc student [Melchior Oudemans](https://www.linkedin.com/in/melchior-oudemans/) and co-supervision of [Stefania Dumbrava](https://web4.ensiie.fr/~stefania.dumbrava/) has been [awarded](https://www.linkedin.com/posts/stefania-dumbrava_honored-to-receive-the-easst-best-software-activity-7338953696858304512-wVDN#:~:text=%F0%9F%8E%89%20Honored%20to%20receive%20the,Elisjana%20Ymeralli) the European Association of Software Science and Technology **Best Software Science Paper** at **[ICGT'25](https://conf.researchr.org/home/icgt-2025)**, **June 10-12**, Koblenz, Germany. 
 
 <!-- * I'll give the keynote talk at **[FORTE'25 - the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2025/forte)** at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/keynote), June 16-20, Lille, France. -->
 
@@ -56,7 +62,7 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
 
 * Invited participation to [VDS'25 - Workshop on Verification of Distributed Systems](https://netys.net/wds2025/VDS25.html) colocated with [NETYS'25](https://netys.net/), **May 19-21**, Rabat, Morocco. 
 
-* I serve in the PCs of [ICSE'26](https://conf.researchr.org/home/icse-2026), [SEFM'25](https://sefm-conference.github.io/2025/), [CAV'25](https://conferences.i-cav.org/2025/), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/).
+* I serve in the PCs [SEFM'25](https://sefm-conference.github.io/2025/), [CAV'25](https://conferences.i-cav.org/2025/), [ICST'25](https://conf.researchr.org/home/icst-2025), [ESOP'25](https://etaps.org/2025/conferences/esop/), [Programming'25](https://2025.programming-conference.org/), and [FBMC'25](https://fmbc.gitlab.io/).
 
 * Gave an invited talk at [Sabanci University](https://cs.sabanciuniv.edu/), December 4, 2024, Istanbul, Turkey. 
 

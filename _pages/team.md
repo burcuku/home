@@ -18,9 +18,6 @@ nav_order: 1
 - **[Zahra Seyedghorban](https://nl.linkedin.com/in/zahraseyedghorban)** (with JetBrains)
 - **[Egor Klimov](https://nl.linkedin.com/in/egor-klimov)** (with JetBrains)
 
-### MSc students
-- Delano Filipse (with ASML)   
-- Davis Kažemaks (with ASML)   
 
 <!--
 *We have open positions for a PhD and several MSc projects in testing distributed systems and blockchains.
@@ -38,6 +35,8 @@ Send an email with a detailed motivation letter if you're interested.*  -->
 
 <!-- **Graduated MSc Students** -->
 
+- Delano Flipse, MSc, 2025 (with ASML) ([thesis](https://repository.tudelft.nl/record/uuid:1b478188-f61d-4f3f-93ab-443cfdccc78f))
+- Davis Kažemaks, MSc, 2025 (with ASML) ([thesis](https://repository.tudelft.nl/record/uuid:9f9f7d93-2f8d-4966-8c11-7b2fdf31992f))
 - Bob Brockbernd, MSc, 2024 (with JetBrains) ([thesis](https://repository.tudelft.nl/record/uuid:d0801a6d-54e7-40b4-b0f1-7a7d692523fc))
 <!-- [paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.8))-->
 - Mantas Zdanavičius, MSc, 2024 ([thesis](https://repository.tudelft.nl/record/uuid:b167bf53-e5e4-4e15-859c-0618b3f44279))

@@ -9,9 +9,11 @@ nav_order: 5
 
 ## Organization:
 
+* Co-chair, [FORTE'26](), 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems, at [DisCoTec - International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/). 
+* Co-chair, [DEBT'26](), Fourth Workshop on Future Debugging Techniques colocated with [ECOOP'26](https://2026.ecoop.org/).
 * Co-chair, [DEBT'25](https://2025.ecoop.org/track/ecoop-2025-workshops), Third Workshop on Future Debugging Techniques colocated with [ECOOP'25](https://2025.ecoop.org/).
 * Remote Attendee Chair	, [ASPLOS'25](https://www.asplos-conference.org/asplos2025/) and [EuroSys 2025](https://2025.eurosys.org/).
-* Co-chair, [ISSTA/ECOOP 2024 Doctoral Symposium](https://2024.issta.org/track/issta-ecoop-2024-doctoral-symposium).
+* Co-organizer, [ISSTA/ECOOP 2024 Doctoral Symposium](https://2024.issta.org/track/issta-ecoop-2024-doctoral-symposium).
 * Co-chair, [ACM Student Research Competition'24](https://2024.programming-conference.org/track/programming-2024-SRC) at [Programming Conference 2024](https://2024.programming-conference.org/).
 * Co-chair, [Erlang'23](https://icfp23.sigplan.org/home/erlang-2023#Call-for-Papers), the 22nd Edition of the ACM SIGPLAN Erlang Workshop, a co-located event of [ICFP 2023](https://icfp23.sigplan.org/).
 * Co-organizer, [Verification Mentoring Workshop (VMW)'23](http://www.i-cav.org/2023/workshops/mentoring/) co-located with [CAV 2023](http://www.i-cav.org/2023/).
@@ -22,6 +24,9 @@ nav_order: 5
 
 ## Program Committees:
 
+* [CAV'26](https://i-cav.org/) 38th Int. Conf. on Computer Aided Verification.
+* [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026) Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
+* [Programming'26](https://2026.programming-conference.org/) Int. Conf. on the Art, Science, and Engineering of Programming
 * [ICSE'26](https://conf.researchr.org/home/icse-2026) 48th International Conference on Software Engineering
 * [CAV'25](https://conferences.i-cav.org/2025/), 37th Int. Conf. on Computer Aided Verification
 * [ICST'25](https://conf.researchr.org/home/icst-2025), 18th IEEE International Conference on Software Testing, Verification and Validation

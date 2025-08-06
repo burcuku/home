@@ -86,6 +86,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - EASST Best Software Science Paper Award at ICGT'25
+        - With the paper "Fuzzing Graph Database Applications with Graph Transformations"
     - year: 2023
       items:
         - Distinguished Paper Award at OOPSLA'23

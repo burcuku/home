@@ -87,6 +87,9 @@ nav_order: 4
 
 ### Invited Tutorials at Graduate Schools
 
+* [DARE'25:  Summer School on Distributed and Replicated Environments](https://soft.vub.ac.be/dare23/).  
+	*Invited tutorial*, 8-12 September 2025, the NOVA School of Science and Technology, Portugal.	
+	
 * [VLDB SS'25: Very Large Databases (VLDB) Summer School](https://vldb.org/summerschool/).  
 	*Invited tutorial*, 28-31 July 2025,  University of Wroclaw, Wroclaw, Poland.
 
