@@ -25,6 +25,10 @@ nav_order: 4
 
 ### Invited Symposium, Workshop, and Research Talks:
 
+* [Bits&Chips Event 2025](https://events.bits-chips.com/bitschips-event), Exhibition and conference on challenges in complex software engineering, AI in high-tech, and systems architecture, 20 November 2025, Eindhoven, Netherlands
+
+* [Nederlandse TestDag 2025](https://www.testdag.nl/), the 28th edition of the Dutch Testing Day, 31 October 2025, Utrecht, Netherlands.
+ 
 * [SEN'25 Symposium](https://www.sen-symposium.nl/), National Symposium on Software engineering (SEN), 23 May 2025. Amsterdam, Netherlands. 
 
 * [VDS'25 colocated with NETYS'25](https://netys.net/wds2025/VDS25.html), Workshop on Verification of Distributed Systems, 19-21 May 2025. Rabat, Morocco. 

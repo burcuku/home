@@ -42,9 +42,11 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
   The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative (UBRI)](https://ripple.com/impact/ubri/).   
   **[Apply here](https://careers.tudelft.nl/job/Delft-PhD-Position-Testing-Blockchain-Applications-2628-CD/809348702/) (deadline: 19 January, 2025)** -->
 
-* :speaker: I'm looking forward to give an invited talk at the [Bits&Chips Event 2025](https://events.bits-chips.com/bitschips-event/#program), will be held on **20 November**, in Eindhoven.
+* :speaker: Looking forward to give an invited talk at the [Bits&Chips Event](https://events.bits-chips.com/bitschips-event/#program), Exhibition and conference on challenges in complex software engineering, AI in high-tech, and systems architecture, will be held on **20 November** 2025, in Eindhoven.
 
-* :books: I'm happy to give a tutorial at the [Summer School on Distributed and Replicated Environments (DARE'25)](https://dare-lisbon.github.io/), held on **8-12 September** in Lisbon, Portugal.
+* :speaker: Looking forward to give an invited talk at the 28th edition of the [Dutch Testing Day (Nederlandse Testdag)](https://www.testdag.nl/), will be held on **31 October** 2025, in Utrecht. LinkedIn post [here](https://www.linkedin.com/feed/update/urn:li:activity:7361722789218660353/).
+
+* :books: I'm happy to give a tutorial at the [Summer School on Distributed and Replicated Environments (DARE'25)](https://dare-lisbon.github.io/), held on **8-12 September** 2025, in Lisbon, Portugal.
 
 * I serve in the PCs of [ICSE'26](https://conf.researchr.org/home/icse-2026), [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026), and [CAV'26](https://i-cav.org/).
 
