@@ -17,6 +17,7 @@ nav_order: 1
 - **[João Neto](https://joao.neto.pt/)**
 - **[Zahra Seyedghorban](https://nl.linkedin.com/in/zahraseyedghorban)** (with JetBrains)
 - **[Egor Klimov](https://nl.linkedin.com/in/egor-klimov)** (with JetBrains)
+- **[Luan Li]()**
 
 
 <!--
