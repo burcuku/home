@@ -26,8 +26,8 @@ nav_order: 5
 
 * [CAV'26](https://i-cav.org/) 38th Int. Conf. on Computer Aided Verification.
 * [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026) Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
-* [Programming'26](https://2026.programming-conference.org/) Int. Conf. on the Art, Science, and Engineering of Programming
 * [ICSE'26](https://conf.researchr.org/home/icse-2026) 48th International Conference on Software Engineering
+* [\<Programming'26\>](https://2026.programming-conference.org/) Int. Conf. on the Art, Science, and Engineering of Programming
 * [CAV'25](https://conferences.i-cav.org/2025/), 37th Int. Conf. on Computer Aided Verification
 * [ICST'25](https://conf.researchr.org/home/icst-2025), 18th IEEE International Conference on Software Testing, Verification and Validation
 * [FBMC'25](https://fmbc.gitlab.io/), 6th Int. Workshop on Formal Methods for Blockchains 
