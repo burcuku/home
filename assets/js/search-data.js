@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/home/";
     },
-  },{id: "nav-team",
-          title: "team",
-          description: "Research on Lightweight Formal Methods for Software Engineering, Reliability of Concurrent, Distributed, and Large-scale Software Systems",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/home/team";
-          },
-        },{id: "nav-research",
+  },{id: "nav-research",
           title: "research",
           description: "",
           section: "Navigation",
