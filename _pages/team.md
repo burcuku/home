@@ -3,7 +3,7 @@ layout: page
 permalink: /team
 title: team
 description: FORSE - Lightweight Formal Methods for Software Engineering 
-nav: false
+nav: true
 nav_order: 1
 ---
 
