@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/home/";
     },
-  },{id: "nav-research",
+  },{id: "nav-team",
+          title: "team",
+          description: "FORSE - Lightweight Formal Methods for Software Engineering",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/home/team";
+          },
+        },{id: "nav-research",
           title: "research",
           description: "",
           section: "Navigation",
