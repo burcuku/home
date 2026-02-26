@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 As software systems have become ubiquitous, modern applications are designed to be highly concurrent, responsive, fault-tolerant, and distributed. The increased complexity of these systems makes it more challenging to produce correct software.
 
-My research aims to produce rigorous and practical software tools for increasing the reliability of software systems: It brings the advantages of the rigorous approaches of formal methods together with the practical approaches of sofware engineering. To this end, my research spans **formal methods, model checking, software testing**, and **debugging** with a focus on **concurrent and distributed systems**. You can find more in my interview ["Challenges of Concurrency"](https://ict-research.nl/wordpress/wp-content/uploads/2022/12/IO-magazine-NR4-2022_online.pdf) at the I/O Magazine, ICT Platform Nederland.
+My research aims to produce rigorous and practical software tools for increasing the reliability of software systems: It brings the advantages of the rigorous approaches of formal methods together with the practical approaches of sofware engineering. To this end, my research spans **formal methods, model checking, software testing**, and **debugging** with a focus on **concurrent and distributed systems**. You can find more in my interview ["Challenges of Concurrency"](https://ict-research.nl/wp-content/uploads/2022/12/IO-magazine-NR4-2022_online.pdf) at the I/O Magazine, ICT Platform Nederland.
 
 
 At TU Delft, I lead and take supervisory role in several research teams and projects:   
