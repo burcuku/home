@@ -14,7 +14,7 @@ At the [FORSE lab]((https://se.ewi.tudelft.nl/research-lines/forse/)), we bring 
 Team page under construction.
 
 
-<span style=" color: #0076df; font-weight: bold;"> (TU Delft students) </span> Interested in a thesis at the FORSE lab? Explore example projects below to get inspired.
+<span style=" color: #0076df; font-weight: bold;"> (TU Delft students) </span> Interested in a MSc thesis at the FORSE lab? Explore example projects below to get inspired.
 
 - Delano Flipse, "**Practical Automated Network-Level Fault Injection Testing of Service-Oriented Distributed Systems**", MSc, 2025 (with ASML) ([thesis](https://repository.tudelft.nl/record/uuid:1b478188-f61d-4f3f-93ab-443cfdccc78f), [paper at ICSE'26](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/151/Automated-Network-Level-Fault-Injection-Testing-of-Microservice-Architectures))
 - Davis Kažemaks, "**Improving Response Time and Fairness with Efficient Scheduling and Partitioning**", MSc, 2025 (with ASML) ([thesis](https://repository.tudelft.nl/record/uuid:9f9f7d93-2f8d-4966-8c11-7b2fdf31992f), [paper at SoCC'25](https://dl.acm.org/doi/pdf/10.1145/3772052.3772214))
