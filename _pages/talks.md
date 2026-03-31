@@ -25,6 +25,8 @@ nav_order: 4
 
 ### Invited Symposium, Workshop, and Research Talks:
 
+* [FMT (Formal Methods and Tools) Group Colloquium](https://www.utwente.nl/en/eemcs/fmt/), University of Twente. 26 March 2026. Enschede, Netherlands.
+
 * [Bits&Chips Event 2025](https://events.bits-chips.com/bitschips-event), Exhibition and conference on challenges in complex software engineering, AI in high-tech, and systems architecture, 20 November 2025, Eindhoven, Netherlands
 
 * [Nederlandse TestDag 2025](https://www.testdag.nl/), the 28th edition of the Dutch Testing Day, 31 October 2025, Utrecht, Netherlands.
@@ -76,7 +78,7 @@ nav_order: 4
 	1-4 November 2021, Schloss Dagstuhl, Wadern, Germany.
 -->
 
-* [FMT (Formal Methods and Tools) Group Seminar](https://www.utwente.nl/en/eemcs/fmt/) at the University of Twente. 1 July 2021.
+* [FMT (Formal Methods and Tools) Group Colloquium](https://www.utwente.nl/en/eemcs/fmt/), University of Twente. 1 July 2021.
 
 	
 * [VDS'19 - Workshop on Verification of Distributed Systems](https://netys.net/workshops//) colocated with the International Conference on Networked Systems ([NETYS](https://netys.net/history/netys2019/index.html#:~:text=NETYS%202019%20%7C%20The%20International%20Conference%20on%20NETworked%20sYStems%2C%20Marrakech%2C%20Morocco&text=NETYS%20aims%20to%20bring%20together,of%20distributed%20and%20networked%20systems.)), 19-21 June 2019, Marrakesh, Morocco.
