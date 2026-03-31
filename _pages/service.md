@@ -9,7 +9,7 @@ nav_order: 5
 
 ## Organization:
 
-* PC chair, [\<Programming\>'27](https://2027.programming-conference.org/) International Conference on the Art, Science, and Engineering of Programming.
+<!--* PC chair, [\<Programming\>'27](https://2027.programming-conference.org/) International Conference on the Art, Science, and Engineering of Programming.-->
 * PC chair, [FORTE'26](), 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems, at [DisCoTec - International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/). 
 * PC chair, [DEBT'26](), Fourth Workshop on Future Debugging Techniques colocated with [ECOOP'26](https://2026.ecoop.org/).
 * PC chair, [DEBT'25](https://2025.ecoop.org/track/ecoop-2025-workshops), Third Workshop on Future Debugging Techniques colocated with [ECOOP'25](https://2025.ecoop.org/).
