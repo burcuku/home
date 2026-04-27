@@ -42,9 +42,9 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
   The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative (UBRI)](https://ripple.com/impact/ubri/).   
   **[Apply here](https://careers.tudelft.nl/job/Delft-PhD-Position-Testing-Blockchain-Applications-2628-CD/809348702/) (deadline: 19 January, 2025)** -->
 
-* Looking forward to your attendance at [FORTE'26, the 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2026/forte). FORTE'26 will take place as part of [DisCoTec'26 - International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2026/), June 8-12, Urbino, Italy. 
+* Looking forward to your attendance at [FORTE'26, the 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2026/forte). FORTE'26 will take place as part of [DisCoTec'26 - International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2026/), June 8-12, Urbino, Italy. Check out the website for the accepted papers and the program.
 
-* Looking forward to your attendance at [DEBT'26, the 4th Workshop on Future Debugging Techniques](https://2026.ecoop.org/home/debt-2026) colocated with [ECOOP'26](https://2026.ecoop.org/), June 29 - July 3, Brussels, Belgium. 
+* Looking forward to your attendance at [DEBT'26, the 4th Workshop on Future Debugging Techniques](https://2026.ecoop.org/home/debt-2026) colocated with [ECOOP'26](https://2026.ecoop.org/), June 29 - July 3, Brussels, Belgium. Check out the website for the accepted papers and the program.
 
 * Our research paper ["Automated Network-Level Fault Injection Testing of Microservice Architectures"](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/151/Automated-Network-Level-Fault-Injection-Testing-of-Microservice-Architectures), together with Delano Flipse, Hakan Simsek, and Jérémie Decouchant, has been accepted to [ICSE'26](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)! The <span style="color:#FF8C00"> <b> Reynard </b></span> automated fault-injection testing tool is publicly available [here](https://www.reynard.dev/). 
 

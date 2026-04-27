@@ -9,7 +9,7 @@ nav_order: 5
 
 ## Organization:
 
-<!--* PC chair, [\<Programming\>'27](https://2027.programming-conference.org/) International Conference on the Art, Science, and Engineering of Programming.-->
+* PC chair, [\<Programming\>'27](https://2027.programming-conference.org/) International Conference on the Art, Science, and Engineering of Programming.
 * PC chair, [FORTE'26](), 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems, at [DisCoTec - International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/). 
 * PC chair, [DEBT'26](), Fourth Workshop on Future Debugging Techniques colocated with [ECOOP'26](https://2026.ecoop.org/).
 * PC chair, [DEBT'25](https://2025.ecoop.org/track/ecoop-2025-workshops), Third Workshop on Future Debugging Techniques colocated with [ECOOP'25](https://2025.ecoop.org/).
@@ -25,13 +25,14 @@ nav_order: 5
 
 ## Program Committees:
 
-* [ICSE'27](https://conf.researchr.org/home/icse-2027) 49th International Conference on Software Engineering.
-* [CAV'26](https://i-cav.org/) 38th Int. Conf. on Computer Aided Verification.
-* [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026) Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
-* [PaPoc'26](https://papoc-workshop.github.io/2026/) Int. Workshop on Principles and Practice of Consistency for Distributed Data, colocated with EuroSys'26.
-* [DISE'26](https://seed-vt.github.io/dise/) Int. Workshop on Data Intensive Software Engineering, colocated with ASE'26
-* [ICSE'26](https://conf.researchr.org/home/icse-2026) 48th International Conference on Software Engineering
-* [\<Programming\>'26](https://2026.programming-conference.org/) Int. Conf. on the Art, Science, and Engineering of Programming
+* [ICSE'27](https://conf.researchr.org/home/icse-2027), 49th International Conference on Software Engineering.
+* [SEFM'26](https://sefm-conference.github.io/2026/), 24th edition of the International Conference on Software Engineering and Formal Methods.
+* [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026), Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications 
+* [CAV'26](https://i-cav.org/), 38th Int. Conf. on Computer Aided Verification.
+* [PaPoc'26](https://papoc-workshop.github.io/2026/), Int. Workshop on Principles and Practice of Consistency for Distributed Data, colocated with EuroSys'26.
+* [DISE'26](https://seed-vt.github.io/dise/), Int. Workshop on Data Intensive Software Engineering, colocated with ASE'26
+* [ICSE'26](https://conf.researchr.org/home/icse-2026), 48th International Conference on Software Engineering
+* [\<Programming\>'26](https://2026.programming-conference.org/), Int. Conf. on the Art, Science, and Engineering of Programming
 * [CAV'25](https://conferences.i-cav.org/2025/), 37th Int. Conf. on Computer Aided Verification
 * [ICST'25](https://conf.researchr.org/home/icst-2025), 18th IEEE International Conference on Software Testing, Verification and Validation
 * [FBMC'25](https://fmbc.gitlab.io/), 6th Int. Workshop on Formal Methods for Blockchains 
