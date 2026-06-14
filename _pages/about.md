@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href='https://se.ewi.tudelft.nl/'>SERG</a>, <a href='https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology'> Software Technology</a>, <a href='https://www.tudelft.nl'> TU Delft</a>
+subtitle: Associate Professor, <a href='https://se.ewi.tudelft.nl/'>SERG</a>, <a href='https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology'> Software Technology</a>, <a href='https://www.tudelft.nl'> TU Delft</a>
 
 profile:
   align: right
@@ -30,23 +30,25 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
 - I am the co-PI of Ripple's [UBRI program](https://ripple.com/impact/ubri/) at TU Delft together with [Annibale Panichella](https://apanichella.github.io/). Our lab focuses on testing and debugging blockchain systems and their applications.
 
 
-- I lead a research track of the [TU Delft - JetBrains collaboration](https://se.ewi.tudelft.nl/ai4se/), AI4SE. [Our track](https://se.ewi.tudelft.nl/ai4se/tracks/04_utilizing_runtime_data.html) aims to utilize the runtime information to improve software development and quality.
-
+- I lead a research track of the [TU Delft - JetBrains collaboration](https://se.ewi.tudelft.nl/ai4se/), AI4SE. [Our track]() aims to improve the software reliability of LLM-based multi-agent systems. 
 
 
 
 ## News: 
 
-<!-- * We're hiring a PhD student to work on testing blockchain systems and applications. 🚀 
 
-  The PhD project will focus on the XRP Ledger framework as part of [Ripple's University Blockchain Research Initiative (UBRI)](https://ripple.com/impact/ubri/).   
-  **[Apply here](https://careers.tudelft.nl/job/Delft-PhD-Position-Testing-Blockchain-Applications-2628-CD/809348702/) (deadline: 19 January, 2025)** -->
+* Looking forward to welcoming you at [DEBT'26](https://2026.ecoop.org/home/debt-2026), the 4th Workshop on Future Debugging Techniques, colocated with [ECOOP'26](https://2026.ecoop.org/), on June 29 - July 3, in Brussels, Belgium. Check out the website for the accepted papers and the program.
 
-* Looking forward to your attendance at [FORTE'26, the 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2026/forte). FORTE'26 will take place as part of [DisCoTec'26 - International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2026/), June 8-12, Urbino, Italy. Check out the website for the accepted papers and the program.
+* Delighted to have co-chaired [FORTE'26](https://www.discotec.org/2026/forte), the 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems, as part of [DisCoTec'26 - International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2026/), which took place on June 8-12, in beautiful Urbino 🏰, Italy. Many thanks to my fellow organizers, speakers, and attendees for a fantastic event! 
 
-* Looking forward to your attendance at [DEBT'26, the 4th Workshop on Future Debugging Techniques](https://2026.ecoop.org/home/debt-2026) colocated with [ECOOP'26](https://2026.ecoop.org/), June 29 - July 3, Brussels, Belgium. Check out the website for the accepted papers and the program.
+* 🎓 🎉 Happy to share that I've been promoted to Associate Professor at TU Delft! Grateful to my colleagues, students, and collaborators who've made this journey so rewarding. I look forward to building on my research and teaching in this new role 🚀
 
-* Our research paper ["Automated Network-Level Fault Injection Testing of Microservice Architectures"](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/151/Automated-Network-Level-Fault-Injection-Testing-of-Microservice-Architectures), together with Delano Flipse, Hakan Simsek, and Jérémie Decouchant, has been accepted to [ICSE'26](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)! The <span style="color:#FF8C00"> <b> Reynard </b></span> automated fault-injection testing tool is publicly available [here](https://www.reynard.dev/). 
+* I will serve in the PCs of [ICSE'27](https://conf.researchr.org/home/icse-2027) and, [FSE'27](https://conf.researchr.org/home/fse-2027).
+
+<!--
+* Looking forward to your attendance at [FORTE'26, the 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2026/forte). FORTE'26 will take place as part of [DisCoTec'26 - International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2026/), June 8-12, Urbino, Italy. Check out the website for the accepted papers and the program. -->
+
+* Our research paper ["Automated Network-Level Fault Injection Testing of Microservice Architectures"](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/151/Automated-Network-Level-Fault-Injection-Testing-of-Microservice-Architectures), together with Delano Flipse, Hakan Simsek, and Jérémie Decouchant, has been presented at [ICSE'26](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)! The <span style="color:#FF8C00"> <b> Reynard </b></span> automated fault-injection testing tool is publicly available [here](https://www.reynard.dev/). 
 
 * Invited talk at the [Bits&Chips Event](https://events.bits-chips.com/bitschips-event/#program), Exhibition and conference on challenges in complex software engineering, AI in high-tech, and systems architecture, held on **20 November** 2025, in Eindhoven.
 
@@ -54,13 +56,18 @@ At TU Delft, I lead and take supervisory role in several research teams and proj
 
 * Invited tutorial at the [Summer School on Distributed and Replicated Environments (DARE'25)](https://dare-lisbon.github.io/), held on **8-12 September** 2025, in Lisbon, Portugal.
 
-* I serve in the PCs of [ICSE'26](https://conf.researchr.org/home/icse-2026), [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026), and [CAV'26](https://i-cav.org/).
+* I serve in the PCs of [ICSE'26](https://conf.researchr.org/home/icse-2026), [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026), [CAV'26](https://i-cav.org/), and [SEFM'26](https://sefm-conference.github.io/).
+
+* Looking forward to your submissions to [DEBT'26, the 4th Workshop on Future Debugging Techniques](https://2026.ecoop.org/home/debt-2026) colocated with [ECOOP'26](https://2026.ecoop.org/), June 29 - July 3, Brussels, Belgium. 
+
+* Looking forward to your submissions to [FORTE'26, the 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems](https://www.discotec.org/2026/forte). FORTE'26 will take place as part of [DisCoTec'26 - International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2026/), June 8-12, Urbino, Italy. 
 
 * :books: It was inspiring to give a tutorial and come together with the international experts and keen graduate students at **[VLDB Summer School](https://vldb-sc25.cs.uni.wroc.pl/)** on **July 28-31** 2025,  University of Wroclaw, Poland. Find some updates and posts [here](https://www.linkedin.com/company/vldb-ssc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BedZP93OJTvCk5LwUaazjSg%3D%3D).
 
 * :speaker: We're excited to invite you to **[DEBT'25 - the Third Workshop on Future Debugging Techniques](https://2025.ecoop.org/home/debt-2025)** colocated with **[ECOOP'25](https://2025.ecoop.org/)**! Looking forward to welcoming you at the workshop on **July 4**, Bergen, Norway.
 
 * :speaker: 🚀 :tada: Honoured and excited to give **[the keynote talk at FORTE'25](https://www.discotec.org/2025/invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte)**, the 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems, at [DisCoTec'25 - the 20th International Federated Conference on Distributed Computing Techniques](https://www.discotec.org/2025/conferences), **June 16-20**, Lille, France. 
+
  
 * :tada: Happy to share that our paper [Fuzzing Graph Database Applications with Graph Transformations](https://conf.researchr.org/details/icgt-2025/icgt-2025-research-papers/4/Fuzzing-Graph-Database-Applications-with-Graph-Transformations) with my MSc student [Melchior Oudemans](https://www.linkedin.com/in/melchior-oudemans/) and co-supervision of [Stefania Dumbrava](https://web4.ensiie.fr/~stefania.dumbrava/) has been [awarded](https://www.linkedin.com/posts/stefania-dumbrava_honored-to-receive-the-easst-best-software-activity-7338953696858304512-wVDN#:~:text=%F0%9F%8E%89%20Honored%20to%20receive%20the,Elisjana%20Ymeralli) the European Association of Software Science and Technology **Best Software Science Paper** at **[ICGT'25](https://conf.researchr.org/home/icgt-2025)**, **June 10-12**, Koblenz, Germany. 
 

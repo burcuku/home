@@ -2,16 +2,22 @@
   type: map
   contents:
     - name: Short Bio
-      value: Burcu Kulahcioglu Ozkan is an assistant professor and Delft Technology Fellow in the Software Engineering Research Group at TU Delft. She received her PhD from Koç University in Istanbul, Turkey, followed by postdoctoral research at the Max Planck Institute for Software Systems (MPI-SWS) in Kaiserslautern, Germany. Her research focuses on formal methods, model checking, software testing, and debugging of concurrent programs and distributed systems. She is a recipient of the academic research awards and grants from Amazon Research, Ripple University Research Initiative, and Stellar Development Foundation.
+      value: Burcu Kulahcioglu Ozkan is an associate professor and Delft Technology Fellow in the Software Engineering Research Group at TU Delft. She received her PhD from Koç University in Istanbul, Turkey, followed by postdoctoral research at the Max Planck Institute for Software Systems (MPI-SWS) in Kaiserslautern, Germany. Her research focuses on formal methods, model checking, software testing, and debugging of concurrent programs and distributed systems. She is a recipient of the academic research awards and grants from Amazon Research, Ripple University Research Initiative, and Stellar Development Foundation.
     - name: Web
       value: https://burcuku.github.io/home/
 
 - title: Experience
   type: time_table
   contents:
+    - title: Associate Professor in Software Engineering
+      institution: Delft University of Technology (TU Delft), Delft, Netherlands
+      year: 06.2026 - now
+      description: 
+        - Leading the FORSE (Lightweight Formal Methods for Software Engineering) research lab
+
     - title: Assistant Professor in Software Engineering
       institution: Delft University of Technology (TU Delft), Delft, Netherlands
-      year: 09.2020 - now
+      year: 09.2020 - 06.2026
       description: 
         - Leading the FORSE (Lightweight Formal Methods for Software Engineering) research lab
         # - formal methods, software testing, concurrency, distributed systems
